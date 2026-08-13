@@ -1,0 +1,3670 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "xsv",
+          "description": "Fast CSV command line toolkit written in Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2025-04-24T13:09:22Z",
+            "owner": "BurntSushi",
+            "repo": "xsv",
+            "stars": 10756
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sc-im",
+          "description": "ncurses spreadsheet program for terminal.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-06T14:00:41Z",
+            "owner": "andmarti1424",
+            "repo": "sc-im",
+            "stars": 5680
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "csvdiff",
+          "description": "Fast diff tool for comparing csv files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-03-28T18:48:01Z",
+            "owner": "aswinkarthik",
+            "repo": "csvdiff",
+            "stars": 585
+          }
+        }
+      ],
+      "title": "CSV"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "reflex",
+          "description": "Run a command when files change.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-02-26T23:46:55Z",
+            "owner": "cespare",
+            "repo": "reflex",
+            "stars": 3548
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "modd",
+          "description": "Flexible tool for responding to filesystem changes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-06-21T09:26:43Z",
+            "owner": "cortesi",
+            "repo": "modd",
+            "stars": 2963
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RecoverPy",
+          "description": "Recover overwritten or deleted data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-03T13:43:54Z",
+            "owner": "PabloLec",
+            "repo": "RecoverPy",
+            "stars": 1784
+          }
+        }
+      ],
+      "title": "File system"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "hub",
+          "description": "Wrapper around Git to extend it with features.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-02-02T21:00:44Z",
+            "owner": "mislav",
+            "repo": "hub",
+            "stars": 22955
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fac",
+          "description": "Easy-to-use CUI for fixing git conflicts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-12-29T06:03:51Z",
+            "owner": "mkchoi212",
+            "repo": "fac",
+            "stars": 1856
+          }
+        }
+      ],
+      "title": "Git"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "dep",
+          "description": "Go dependency management tool.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2020-09-05T13:47:25Z",
+            "owner": "golang",
+            "repo": "dep",
+            "stars": 12732
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "richgo",
+          "description": "Enrich outputs with text decorations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-18T09:03:46Z",
+            "owner": "kyoh86",
+            "repo": "richgo",
+            "stars": 860
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "playgo",
+          "description": "Send .go file to the Go Playground.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-07-08T14:59:12Z",
+            "owner": "plutov",
+            "repo": "playgo",
+            "stars": 80
+          }
+        }
+      ],
+      "title": "Go"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "mas",
+          "description": "Command line interface for the Mac App Store.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-08-10T15:04:58Z",
+            "owner": "mas-cli",
+            "repo": "mas",
+            "stars": 12295
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "m-cli",
+          "description": "Swiss Army Knife for macOS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-06-02T18:15:16Z",
+            "owner": "rgcr",
+            "repo": "m-cli",
+            "stars": 9916
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "displayplacer",
+          "description": "macOS command line utility to configure multi-display resolutions and arrangements. Essentially XRandR for macOS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-06-05T18:21:33Z",
+            "owner": "jakehilborn",
+            "repo": "displayplacer",
+            "stars": 4492
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iStats",
+          "description": "Mac stats.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2023-01-29T19:26:57Z",
+            "owner": "Chris911",
+            "repo": "iStats",
+            "stars": 2454
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "switchaudio-osx",
+          "description": "Change the audio source for Mac OS X from the command line.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-07-07T17:06:56Z",
+            "owner": "deweller",
+            "repo": "switchaudio-osx",
+            "stars": 1438
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "do-not-disturb",
+          "description": "Control the macOS feature.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-10-14T10:23:27Z",
+            "owner": "sindresorhus",
+            "repo": "do-not-disturb-cli",
+            "stars": 245
+          }
+        }
+      ],
+      "title": "macOS"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "httpie",
+          "description": "Modern, user-friendly command-line HTTP client for the API era.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-12-17T17:30:35Z",
+            "owner": "httpie",
+            "repo": "cli",
+            "stars": 38419
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sshuttle",
+          "description": "Transparent proxy server that works as a poor man's VPN. Forwards over ssh. Doesn't require admin. Works with Linux and MacOS. Supports DNS tunneling.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T04:49:18Z",
+            "owner": "sshuttle",
+            "repo": "sshuttle",
+            "stars": 13515
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bandwhich",
+          "description": "CLI utility for displaying current network utilization by process, connection and remote IP/hostname.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-01T01:34:33Z",
+            "owner": "imsnif",
+            "repo": "bandwhich",
+            "stars": 11896
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "http-prompt",
+          "description": "Interactive command-line HTTP and API testing tool built on top of HTTPie with autocomplete, syntax highlighting, and more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-21T06:03:21Z",
+            "owner": "httpie",
+            "repo": "http-prompt",
+            "stars": 9108
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sshfs",
+          "description": "Network filesystem client to connect to SSH servers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-08T10:13:13Z",
+            "owner": "libfuse",
+            "repo": "sshfs",
+            "stars": 7610
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "curlie",
+          "description": "Power of curl, the ease of use of httpie.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-12-07T20:14:24Z",
+            "owner": "rs",
+            "repo": "curlie",
+            "stars": 3709
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "neoss",
+          "description": "Socket statistics visualization and explanation tool for Unix systems.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T20:23:05Z",
+            "owner": "PabloLec",
+            "repo": "neoss",
+            "stars": 229
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Catflap",
+          "description": "Creates a listening TCP socket and passes its FD to a child process.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2021-03-03T03:59:02Z",
+            "owner": "passcod",
+            "repo": "catflap",
+            "stars": 140
+          }
+        }
+      ],
+      "title": "Networking"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "cb",
+          "description": "Powerful clipboard manager for all platforms.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-05-06T17:53:52Z",
+            "owner": "Slackadays",
+            "repo": "Clipboard",
+            "stars": 5874
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "eureka",
+          "description": "CLI tool to input and store your ideas without leaving the terminal.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-11-04T06:12:54Z",
+            "owner": "simeg",
+            "repo": "eureka",
+            "stars": 873
+          }
+        }
+      ],
+      "title": "Productivity"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "rq",
+          "description": "Simple job queues for Python.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-07T19:13:58Z",
+            "owner": "rq",
+            "repo": "rq",
+            "stars": 10668
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "livepython",
+          "description": "Visually trace python code in real-time.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-01-22T17:39:55Z",
+            "owner": "agermanidis",
+            "repo": "livepython",
+            "stars": 2563
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tg",
+          "description": "Telegram terminal client.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-04T19:08:48Z",
+            "owner": "paul-nameless",
+            "repo": "tg",
+            "stars": 1188
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "visa-cli",
+          "description": "Visa Requirements terminal interface.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-03-05T15:59:47Z",
+            "owner": "rand-net",
+            "repo": "visa-cli",
+            "stars": 23
+          }
+        }
+      ],
+      "title": "Python"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "rbenv",
+          "description": "Groom your app’s Ruby environment.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-07-14T14:02:43Z",
+            "owner": "rbenv",
+            "repo": "rbenv",
+            "stars": 16731
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ruby-build",
+          "description": "Compile and install Ruby.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-07-22T18:05:53Z",
+            "owner": "rbenv",
+            "repo": "ruby-build",
+            "stars": 3975
+          }
+        }
+      ],
+      "title": "Ruby"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "rustup",
+          "description": "Rust toolchain installer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T19:35:23Z",
+            "owner": "rust-lang",
+            "repo": "rustup",
+            "stars": 7002
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "project init",
+          "description": "Project templates in rust.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2023-09-11T13:20:54Z",
+            "owner": "vmchale",
+            "repo": "project-init",
+            "stars": 140
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tree Ring Memory",
+          "description": "Local-first memory lifecycle CLI for AI agents with SQLite/FTS recall, forgetting, audit, consolidation, and TUI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-23T22:36:20Z",
+            "owner": "TerminallyLazy",
+            "repo": "Tree-Ring-Memory",
+            "stars": 12
+          }
+        }
+      ],
+      "title": "Rust"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "neovim",
+          "description": "Vim-fork focused on extensibility and usability.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vim Script",
+            "last_commit": "2026-08-13T13:17:16Z",
+            "owner": "neovim",
+            "repo": "neovim",
+            "stars": 101785
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "helix",
+          "description": "A Kakoune / Neovim inspired editor, written in Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-11T23:23:12Z",
+            "owner": "helix-editor",
+            "repo": "helix",
+            "stars": 45815
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vim",
+          "description": "Modal text editor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vim Script",
+            "last_commit": "2026-08-13T18:54:06Z",
+            "owner": "vim",
+            "repo": "vim",
+            "stars": 40737
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "micro",
+          "description": "Modern and intuitive terminal-based text editor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T00:28:46Z",
+            "owner": "micro-editor",
+            "repo": "micro",
+            "stars": 29330
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kakoune",
+          "description": "Modal editor with multi selections.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-10T23:11:09Z",
+            "owner": "mawww",
+            "repo": "kakoune",
+            "stars": 11022
+          }
+        }
+      ],
+      "title": "Text editors"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "create-react-app",
+          "description": "Create React apps with no build configuration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-02-15T01:32:11Z",
+            "owner": "react",
+            "repo": "create-react-app",
+            "stars": 103324
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "up",
+          "description": "Deploy infinitely scalable serverless apps, apis, and sites in seconds to AWS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-03-15T07:24:56Z",
+            "owner": "apex",
+            "repo": "up",
+            "stars": 8793
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "preact",
+          "description": "Create preact app.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-03-27T18:12:14Z",
+            "owner": "preactjs",
+            "repo": "preact-cli",
+            "stars": 4667
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "urlsup",
+          "description": "CLI to validate URLs in files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-08-10T12:11:56Z",
+            "owner": "simeg",
+            "repo": "urlsup",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "prerenderbuddy cli",
+          "description": "CLI utility for crawler visibility checks and raw-vs-rendered website comparisons for SEO and bot indexing workflows.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-03T09:50:53Z",
+            "owner": "kopachlager",
+            "repo": "prerenderbuddy-cli",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Web"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "goaccess",
+          "description": "Real-time web log analyzer and interactive viewer that runs in a terminal in nix systems or through your browser.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-05T01:20:34Z",
+            "owner": "allinurl",
+            "repo": "goaccess",
+            "stars": 20795
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lnav",
+          "description": "Advanced log file viewer for the small-scale; Watch and analyze your log files from a terminal.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-05T02:27:24Z",
+            "owner": "tstack",
+            "repo": "lnav",
+            "stars": 10543
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "angle-grinder",
+          "description": "Slice and dice logs on the command line.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-02-05T19:11:45Z",
+            "owner": "rcoh",
+            "repo": "angle-grinder",
+            "stars": 3750
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "red",
+          "description": "Terminal log analysis tools.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-05-12T14:21:46Z",
+            "owner": "annamedv",
+            "repo": "red",
+            "stars": 1489
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "agenttrace",
+          "description": "Inspect AI coding agent logs for cost, failures, latency, anomalies, and health gates.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T17:40:54Z",
+            "owner": "luoyuctl",
+            "repo": "agenttrace",
+            "stars": 119
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "drep",
+          "description": "Grep with dynamic reloadable filter expressions. This allows filtering stream of logs/lines, while changing filters on the fly.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2022-07-10T03:52:39Z",
+            "owner": "maxpert",
+            "repo": "drep",
+            "stars": 89
+          }
+        }
+      ],
+      "title": "Logging"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "fzf",
+          "description": "Command-line fuzzy finder.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-11T14:44:46Z",
+            "owner": "junegunn",
+            "repo": "fzf",
+            "stars": 82552
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "you-get",
+          "description": "Dumb downloader that scrapes the web.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-25T08:02:33Z",
+            "owner": "soimort",
+            "repo": "you-get",
+            "stars": 56879
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fd",
+          "description": "Simple, fast and user-friendly alternative to 'find'.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-11T17:42:55Z",
+            "owner": "sharkdp",
+            "repo": "fd",
+            "stars": 44074
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aria2A",
+          "description": "Lightweight multi-protocol & multi-source, cross platform download utility.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-06-25T14:49:35Z",
+            "owner": "aria2",
+            "repo": "aria2",
+            "stars": 41709
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "croc",
+          "description": "Easily get things from one computer to another.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T18:25:53Z",
+            "owner": "schollz",
+            "repo": "croc",
+            "stars": 39727
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zoxide",
+          "description": "cd command that learns your habits.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-10T18:53:37Z",
+            "owner": "ajeetdsouza",
+            "repo": "zoxide",
+            "stars": 38642
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jq",
+          "description": "Command-line JSON processor. (Mastering JQ)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T19:02:39Z",
+            "owner": "jqlang",
+            "repo": "jq",
+            "stars": 35449
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "just",
+          "description": "Handy way to save and run project-specific commands.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T23:47:50Z",
+            "owner": "casey",
+            "repo": "just",
+            "stars": 35290
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Czkawka",
+          "description": "Multi functional app to find duplicates, empty folders, similar images etc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Fluent",
+            "last_commit": "2026-07-29T16:35:30Z",
+            "owner": "qarmin",
+            "repo": "czkawka",
+            "stars": 32676
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "delta",
+          "description": "Syntax-highlighter for git and diff output.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-02T00:01:16Z",
+            "owner": "dandavison",
+            "repo": "delta",
+            "stars": 31742
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hyperfine",
+          "description": "Command-line benchmarking tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-04-30T08:23:25Z",
+            "owner": "sharkdp",
+            "repo": "hyperfine",
+            "stars": 28650
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ag",
+          "description": "Recursively search for pattern.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-06-16T19:37:41Z",
+            "owner": "ggreer",
+            "repo": "the_silver_searcher",
+            "stars": 27107
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "glow",
+          "description": "Render markdown on the CLI, with pizzazz.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T11:19:04Z",
+            "owner": "charmbracelet",
+            "repo": "glow",
+            "stars": 26867
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Difftastic",
+          "description": "Syntax-aware structured diff tool. (HN)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T08:52:58Z",
+            "owner": "Wilfred",
+            "repo": "difftastic",
+            "stars": 25766
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "asdf",
+          "description": "Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T01:47:40Z",
+            "owner": "asdf-vm",
+            "repo": "asdf",
+            "stars": 25523
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "exa",
+          "description": "Replacement for ls written in Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-09-24T15:18:09Z",
+            "owner": "ogham",
+            "repo": "exa",
+            "stars": 24440
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pkg",
+          "description": "Package your node.js project into an executable.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2024-01-03T01:38:16Z",
+            "owner": "vercel",
+            "repo": "pkg",
+            "stars": 24360
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "neofetch",
+          "description": "Displays information about your operating system, software and hardware in an aesthetic and visually pleasing way.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Shell",
+            "last_commit": "2024-07-19T20:19:01Z",
+            "owner": "dylanaraps",
+            "repo": "neofetch",
+            "stars": 23716
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RustScan",
+          "description": "Modern Port Scanner.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-29T09:03:06Z",
+            "owner": "bee-san",
+            "repo": "RustScan",
+            "stars": 20272
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gotty",
+          "description": "Share your terminal as a web application.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-08-01T18:50:55Z",
+            "owner": "yudai",
+            "repo": "gotty",
+            "stars": 19543
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ctop",
+          "description": "Container metric viewer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-07-08T11:15:48Z",
+            "owner": "bcicen",
+            "repo": "ctop",
+            "stars": 17817
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "navi",
+          "description": "Interactive cheatsheet tool for the command-line.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-28T09:05:10Z",
+            "owner": "denisidoro",
+            "repo": "navi",
+            "stars": 17425
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wtf",
+          "description": "Personal information dashboard for your terminal.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-05T23:33:13Z",
+            "owner": "wtfutil",
+            "repo": "wtf",
+            "stars": 17053
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lsd",
+          "description": "Next gen ls command.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-25T17:02:07Z",
+            "owner": "lsd-rs",
+            "repo": "lsd",
+            "stars": 16165
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "now",
+          "description": "Develop. Preview. Ship.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T20:04:02Z",
+            "owner": "vercel",
+            "repo": "vercel",
+            "stars": 16077
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yq",
+          "description": "Portable command-line YAML processor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-06T03:55:00Z",
+            "owner": "mikefarah",
+            "repo": "yq",
+            "stars": 15826
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "direnv",
+          "description": "Unclutter your .profile.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-03-31T18:52:06Z",
+            "owner": "direnv",
+            "repo": "direnv",
+            "stars": 15357
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mackup",
+          "description": "Keep your application settings in sync (OS X/Linux).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-15T00:33:53Z",
+            "owner": "lra",
+            "repo": "mackup",
+            "stars": 15303
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "duf",
+          "description": "Disk Usage/Free Utility.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-01-13T11:07:14Z",
+            "owner": "muesli",
+            "repo": "duf",
+            "stars": 15261
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "scipy",
+          "description": "Open-source software for mathematics, science, and engineering.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T14:19:59Z",
+            "owner": "scipy",
+            "repo": "scipy",
+            "stars": 14915
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tokei",
+          "description": "Display statistics about your code. (Reddit)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-05-06T16:44:01Z",
+            "owner": "XAMPPRocky",
+            "repo": "tokei",
+            "stars": 14801
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "espanso",
+          "description": "Cross-platform Text Expander written in Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-09T00:15:43Z",
+            "owner": "espanso",
+            "repo": "espanso",
+            "stars": 14272
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bottom",
+          "description": "Cross-platform graphical process/system monitor with a customizable interface and a multitude of features.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T17:54:42Z",
+            "owner": "ClementTsang",
+            "repo": "bottom",
+            "stars": 13884
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pgcli",
+          "description": "Postgres CLI with autocompletion and syntax highlighting.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-03T15:06:13Z",
+            "owner": "dbcli",
+            "repo": "pgcli",
+            "stars": 13349
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "broot",
+          "description": "New way to see and navigate directory trees.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T06:56:09Z",
+            "owner": "Canop",
+            "repo": "broot",
+            "stars": 12889
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gping",
+          "description": "Ping, but with a graph.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-10T10:33:12Z",
+            "owner": "orf",
+            "repo": "gping",
+            "stars": 12617
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dust",
+          "description": "More intuitive version of du in rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T07:17:42Z",
+            "owner": "bootandy",
+            "repo": "dust",
+            "stars": 12116
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mycli",
+          "description": "Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T10:26:46Z",
+            "owner": "dbcli",
+            "repo": "mycli",
+            "stars": 11961
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hexyl",
+          "description": "Command-line hex viewer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-04-30T08:24:07Z",
+            "owner": "sharkdp",
+            "repo": "hexyl",
+            "stars": 10254
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "miller",
+          "description": "Like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T22:00:34Z",
+            "owner": "johnkerl",
+            "repo": "miller",
+            "stars": 9995
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rga",
+          "description": "Ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-03-25T15:21:58Z",
+            "owner": "phiresky",
+            "repo": "ripgrep-all",
+            "stars": 9798
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "visidata",
+          "description": "Terminal spreadsheet multitool for discovering and arranging data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-04T19:14:15Z",
+            "owner": "saulpw",
+            "repo": "visidata",
+            "stars": 9239
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jc",
+          "description": "Serializes the output of popular gnu linux command line tools and file types to structured JSON output. This allows piping of output to tools like jq.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-18T17:00:49Z",
+            "owner": "kellyjonbrazil",
+            "repo": "jc",
+            "stars": 8663
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "scc",
+          "description": "Very fast accurate code counter with complexity calculations and COCOMO estimates.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-11T00:08:59Z",
+            "owner": "boyter",
+            "repo": "scc",
+            "stars": 8620
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wego",
+          "description": "Weather app for the terminal.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-01T14:53:35Z",
+            "owner": "schachmat",
+            "repo": "wego",
+            "stars": 8531
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dasel",
+          "description": "Allows you to query and modify data structures using selector strings.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-01T00:44:34Z",
+            "owner": "TomWright",
+            "repo": "dasel",
+            "stars": 8016
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "McFly",
+          "description": "Fly through your shell history.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-04-14T01:07:32Z",
+            "owner": "cantino",
+            "repo": "mcfly",
+            "stars": 7777
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ffsend",
+          "description": "Easily and securely share files from the command line. A fully featured Firefox Send client.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-11-20T08:45:23Z",
+            "owner": "timvisee",
+            "repo": "ffsend",
+            "stars": 7369
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sd",
+          "description": "Intuitive find & replace CLI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-02-25T19:26:21Z",
+            "owner": "chmln",
+            "repo": "sd",
+            "stars": 7296
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "buku",
+          "description": "Browser-independent bookmark manager.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-04T13:32:28Z",
+            "owner": "jarun",
+            "repo": "buku",
+            "stars": 7177
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "watchexec",
+          "description": "Executes commands in response to file modifications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T07:47:11Z",
+            "owner": "watchexec",
+            "repo": "watchexec",
+            "stars": 7115
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fkill",
+          "description": "Kill processes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-11-09T09:58:29Z",
+            "owner": "sindresorhus",
+            "repo": "fkill-cli",
+            "stars": 6998
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "skim",
+          "description": "Fuzzy Finder in rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-11T13:34:48Z",
+            "owner": "skim-rs",
+            "repo": "skim",
+            "stars": 6919
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tealdeer",
+          "description": "Very fast implementation of tldr in Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T23:48:40Z",
+            "owner": "tealdeer-rs",
+            "repo": "tealdeer",
+            "stars": 6418
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pueue",
+          "description": "Daemon for managing long running shell commands.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-28T08:47:25Z",
+            "owner": "Nukesor",
+            "repo": "pueue",
+            "stars": 6289
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "googler",
+          "description": "Google from the terminal.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2021-11-13T08:09:20Z",
+            "owner": "jarun",
+            "repo": "googler",
+            "stars": 6204
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "procs",
+          "description": "Modern replacement for ps written in Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-10T20:07:54Z",
+            "owner": "dalance",
+            "repo": "procs",
+            "stars": 6130
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dua",
+          "description": "View disk space usage and delete unwanted data, fast.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T02:53:12Z",
+            "owner": "Byron",
+            "repo": "dua-cli",
+            "stars": 6124
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fasd",
+          "description": "Quick access to files and directories.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Shell",
+            "last_commit": "2020-06-04T18:44:10Z",
+            "owner": "clvv",
+            "repo": "fasd",
+            "stars": 5908
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gdu",
+          "description": "Disk usage analyzer with console interface written in Go.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T06:38:16Z",
+            "owner": "dundee",
+            "repo": "gdu",
+            "stars": 5894
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "entr",
+          "description": "Run arbitrary commands when files change. (Article) (Code)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-06-27T11:55:32Z",
+            "owner": "eradman",
+            "repo": "entr",
+            "stars": 5650
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gifski",
+          "description": "GIF encoder. Squeezes maximum possible quality from the awful GIF format.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-06-17T02:52:51Z",
+            "owner": "ImageOptim",
+            "repo": "gifski",
+            "stars": 5594
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Viddy",
+          "description": "Modern watch command. Time machine and pager etc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-06-14T14:21:10Z",
+            "owner": "sachaos",
+            "repo": "viddy",
+            "stars": 5393
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "chroma",
+          "description": "General purpose syntax highlighter in pure Go.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T17:54:33Z",
+            "owner": "alecthomas",
+            "repo": "chroma",
+            "stars": 5011
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "noti",
+          "description": "Monitor a process and trigger a notification.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2026-05-01T20:38:04Z",
+            "owner": "variadico",
+            "repo": "noti",
+            "stars": 4864
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xplr",
+          "description": "Hackable, minimal, fast TUI file explorer, stealing ideas from nnn and fzf.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-10T08:50:01Z",
+            "owner": "sayanarijit",
+            "repo": "xplr",
+            "stars": 4800
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wifi-password",
+          "description": "Get wifi pass.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2024-06-13T19:16:52Z",
+            "owner": "rauchg",
+            "repo": "wifi-password",
+            "stars": 4565
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lychee",
+          "description": "Fast, async, resource-friendly link checker written in Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-11T09:37:22Z",
+            "owner": "lycheeverse",
+            "repo": "lychee",
+            "stars": 3833
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jq in Go",
+          "description": "Pure Go implementation of jq.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-20T13:29:00Z",
+            "owner": "itchyny",
+            "repo": "gojq",
+            "stars": 3793
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fzy",
+          "description": "Better fuzzy finder.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-07-29T23:14:14Z",
+            "owner": "jhawthorn",
+            "repo": "fzy",
+            "stars": 3293
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "viu",
+          "description": "Command-line application to view images from the terminal written in Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-12-15T10:20:59Z",
+            "owner": "atanunq",
+            "repo": "viu",
+            "stars": 3261
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ugrep",
+          "description": "Ultra fast grep with interactive query UI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-07T01:05:02Z",
+            "owner": "Genivia",
+            "repo": "ugrep",
+            "stars": 3237
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ccat",
+          "description": "Colorizing .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2022-09-05T17:44:40Z",
+            "owner": "owenthereal",
+            "repo": "ccat",
+            "stars": 3208
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zenith",
+          "description": "Sort of like top or htop but with zoom-able charts, network, and disk usage.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-13T15:16:01Z",
+            "owner": "bvaisvil",
+            "repo": "zenith",
+            "stars": 3044
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "termdash",
+          "description": "Terminal based dashboard.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-27T21:02:24Z",
+            "owner": "mum4k",
+            "repo": "termdash",
+            "stars": 3026
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "projen",
+          "description": "Define and maintain complex project configuration through code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T01:29:45Z",
+            "owner": "projen",
+            "repo": "projen",
+            "stars": 2940
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FClones",
+          "description": "Efficient Duplicate File Finder.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-03-03T09:50:02Z",
+            "owner": "pkolaczk",
+            "repo": "fclones",
+            "stars": 2870
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "chrome-cli",
+          "description": "Control Google Chrome from the command line.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Objective-C",
+            "last_commit": "2025-09-03T19:09:41Z",
+            "owner": "prasmussen",
+            "repo": "chrome-cli",
+            "stars": 2808
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pspg",
+          "description": "Postgres Pager.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-06-28T06:36:42Z",
+            "owner": "okbob",
+            "repo": "pspg",
+            "stars": 2728
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "s",
+          "description": "Web search from the terminal. Just opens in your browser.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-27T03:07:50Z",
+            "owner": "zquestz",
+            "repo": "s",
+            "stars": 2593
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sq",
+          "description": "Command line tool that provides jq-style access to structured data sources such as SQL databases, or document formats like CSV or Excel. (Web)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T07:30:57Z",
+            "owner": "neilotoole",
+            "repo": "sq",
+            "stars": 2552
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Graphtage",
+          "description": "Semantic diff utility and library for tree-like files such as JSON, JSON5, XML, HTML, YAML, and CSV.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-04T18:42:40Z",
+            "owner": "trailofbits",
+            "repo": "graphtage",
+            "stars": 2477
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "loc",
+          "description": "Count lines of code quickly.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-04-21T20:06:03Z",
+            "owner": "cgag",
+            "repo": "loc",
+            "stars": 2458
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "scons",
+          "description": "Software construction tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T04:43:37Z",
+            "owner": "SCons",
+            "repo": "scons",
+            "stars": 2412
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mdcat",
+          "description": "for Markdown.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2026-06-19T10:39:10Z",
+            "owner": "swsnr",
+            "repo": "mdcat",
+            "stars": 2412
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ls-lint",
+          "description": "Extremely fast directory and filename linter - Bring some structure to your project directories. (Docs)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-07T13:56:52Z",
+            "owner": "loeffel-io",
+            "repo": "ls-lint",
+            "stars": 2407
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Choose",
+          "description": "Human-friendly and fast alternative to awk and cut. (HN)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-06-11T13:02:35Z",
+            "owner": "theryangeary",
+            "repo": "choose",
+            "stars": 2261
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TV",
+          "description": "Cross-platform CSV pretty printer made to maximize viewer enjoyment. (HN)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-08-21T00:29:44Z",
+            "owner": "alexhallam",
+            "repo": "tv",
+            "stars": 2165
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ytop",
+          "description": "TUI system monitor written in Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2020-08-29T01:04:42Z",
+            "owner": "cjbassi",
+            "repo": "ytop",
+            "stars": 2161
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gf",
+          "description": "Wrapper around grep, to help you grep for things.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-06-08T11:35:23Z",
+            "owner": "tomnomnom",
+            "repo": "gf",
+            "stars": 2138
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "snallygaster",
+          "description": "Tool to scan for secret files on HTTP servers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-04T11:26:43Z",
+            "owner": "hannob",
+            "repo": "snallygaster",
+            "stars": 2107
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sad",
+          "description": "CLI search and replace. Show you a nice diff of proposed changes before you commit them.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-05-11T01:13:50Z",
+            "owner": "ms-jpq",
+            "repo": "sad",
+            "stars": 2044
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jump",
+          "description": "Helps you navigate faster by learning your habits.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-06T08:33:35Z",
+            "owner": "gsamokovarov",
+            "repo": "jump",
+            "stars": 1943
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kalk",
+          "description": "Command line calculator that supports math-like syntax with user-defined variables, functions, derivation, integration, and complex numbers. (Web) (HN)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-10T12:49:15Z",
+            "owner": "PaddiM8",
+            "repo": "kalker",
+            "stars": 1906
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rip",
+          "description": "Safe and ergonomic alternative to rm.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-04-08T14:17:34Z",
+            "owner": "nivekuil",
+            "repo": "rip",
+            "stars": 1728
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yank",
+          "description": "Yank terminal output to clipboard. (HN)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-16T18:26:13Z",
+            "owner": "mptre",
+            "repo": "yank",
+            "stars": 1706
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "urlhunter",
+          "description": "Recon tool that allows searching on URLs that are exposed via shortener services.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-01-23T15:48:12Z",
+            "owner": "utkusen",
+            "repo": "urlhunter",
+            "stars": 1698
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JQL",
+          "description": "JSON Query Language CLI tool built with Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-03-18T13:18:28Z",
+            "owner": "yamafaktory",
+            "repo": "jql",
+            "stars": 1674
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Antibody",
+          "description": "Fastest shell plugin manager.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2022-05-27T16:22:56Z",
+            "owner": "getantibody",
+            "repo": "antibody",
+            "stars": 1670
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "svgcleaner",
+          "description": "Clean up your SVG files from the unnecessary data.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2021-10-30T13:53:34Z",
+            "owner": "RazrFalcon",
+            "repo": "svgcleaner",
+            "stars": 1669
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "anew",
+          "description": "Tool for adding new lines to files, skipping duplicates.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-01-12T01:06:36Z",
+            "owner": "tomnomnom",
+            "repo": "anew",
+            "stars": 1652
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "csvq",
+          "description": "SQL-like query language for csv.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-07-25T10:25:08Z",
+            "owner": "mithrandie",
+            "repo": "csvq",
+            "stars": 1626
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "warp",
+          "description": "Secure and simple terminal sharing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2018-03-06T17:55:07Z",
+            "owner": "spolu",
+            "repo": "warp",
+            "stars": 1617
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jwt-cli",
+          "description": "Super fast CLI tool to decode and encode JWTs built in Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-10T12:39:19Z",
+            "owner": "mike-engel",
+            "repo": "jwt-cli",
+            "stars": 1504
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "so",
+          "description": "Terminal interface for Stack Overflow.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-06-30T16:10:25Z",
+            "owner": "samtay",
+            "repo": "so",
+            "stars": 1422
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "misspell",
+          "description": "Correct commonly misspelled English words in source files.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2024-06-12T03:19:38Z",
+            "owner": "client9",
+            "repo": "misspell",
+            "stars": 1406
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "massren",
+          "description": "Easily rename multiple files using your text editor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-12-08T14:50:22Z",
+            "owner": "laurent22",
+            "repo": "massren",
+            "stars": 1395
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "grcov",
+          "description": "Collects and aggregates code coverage information for multiple source files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-06-02T23:34:09Z",
+            "owner": "mozilla",
+            "repo": "grcov",
+            "stars": 1360
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hunter",
+          "description": "Ranger-like file browser written in rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2022-09-26T09:00:56Z",
+            "owner": "rabite0",
+            "repo": "hunter",
+            "stars": 1339
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rdfind",
+          "description": "Command line tool that finds duplicate files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-25T18:21:13Z",
+            "owner": "pauldreik",
+            "repo": "rdfind",
+            "stars": 1297
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nat",
+          "description": "Complete replacement for the 'ls' command.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2021-05-28T07:12:29Z",
+            "owner": "willdoescode",
+            "repo": "nat",
+            "stars": 1262
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bfs",
+          "description": "Breadth-first search for your files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-10T18:25:36Z",
+            "owner": "tavianator",
+            "repo": "bfs",
+            "stars": 1254
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "diskus",
+          "description": "Minimal, fast alternative to du -sh.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-02-14T12:04:30Z",
+            "owner": "sharkdp",
+            "repo": "diskus",
+            "stars": 1232
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rush",
+          "description": "Cross-platform command-line tool for executing jobs in parallel.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-04-08T08:00:55Z",
+            "owner": "shenwei356",
+            "repo": "rush",
+            "stars": 1130
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "stow",
+          "description": "Symlink farm manager program.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Perl",
+            "last_commit": "2025-12-03T01:58:51Z",
+            "owner": "aspiers",
+            "repo": "stow",
+            "stars": 1089
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "linkchecker",
+          "description": "Check links in web documents or full websites.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-28T04:13:06Z",
+            "owner": "linkchecker",
+            "repo": "linkchecker",
+            "stars": 1069
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yj",
+          "description": "Convert YAML <=> TOML <=> JSON <=> HCL.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-05-15T20:39:18Z",
+            "owner": "sclevine",
+            "repo": "yj",
+            "stars": 1050
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cowyo",
+          "description": "Feature rich wiki webserver for minimalists.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T09:27:31Z",
+            "owner": "schollz",
+            "repo": "cowyo",
+            "stars": 972
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "weather",
+          "description": "Weather via the command line.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-03-29T08:38:02Z",
+            "owner": "genuinetools",
+            "repo": "weather",
+            "stars": 964
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "amber",
+          "description": "Code search / replace tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-07T20:04:47Z",
+            "owner": "dalance",
+            "repo": "amber",
+            "stars": 950
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jiq",
+          "description": "jid on jq - interactive JSON query tool using jq expressions.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2023-01-09T17:59:27Z",
+            "owner": "fiatjaf",
+            "repo": "jiq",
+            "stars": 931
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xcp",
+          "description": "Extended cp.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-06-23T06:38:18Z",
+            "owner": "tarka",
+            "repo": "xcp",
+            "stars": 925
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jql",
+          "description": "Easy JSON Query Processor with a Lispy syntax in Go.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-05-02T17:25:03Z",
+            "owner": "cube2222",
+            "repo": "jql",
+            "stars": 903
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ran",
+          "description": "Simple static web server written in Go.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-02-24T19:27:39Z",
+            "owner": "m3ng9i",
+            "repo": "ran",
+            "stars": 876
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "uni",
+          "description": "Query the Unicode database from the commandline, with good support for emojis.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-02-23T18:27:18Z",
+            "owner": "arp242",
+            "repo": "uni",
+            "stars": 860
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fcp",
+          "description": "Significantly faster alternative to the classic Unix cp command.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-04-23T01:10:07Z",
+            "owner": "Svetlitski",
+            "repo": "fcp",
+            "stars": 856
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pbgopy",
+          "description": "Copy and paste between devices.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-04-29T08:38:11Z",
+            "owner": "nakabonne",
+            "repo": "pbgopy",
+            "stars": 815
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rustcat",
+          "description": "Netcat Alternative in Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-07-20T14:20:34Z",
+            "owner": "robiot",
+            "repo": "rustcat",
+            "stars": 810
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mmv",
+          "description": "Rename multiple files using your $EDITOR.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-04-26T10:00:04Z",
+            "owner": "itchyny",
+            "repo": "mmv",
+            "stars": 805
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hck",
+          "description": "Drop in replacement for cut that can use a regex delimiter instead of a fixed string.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-06-15T13:24:14Z",
+            "owner": "sstadick",
+            "repo": "hck",
+            "stars": 742
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Got",
+          "description": "Simple and fast concurrent downloader.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-01-16T16:07:28Z",
+            "owner": "melbahja",
+            "repo": "got",
+            "stars": 734
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nomino",
+          "description": "Batch rename utility for developers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-08-07T22:55:47Z",
+            "owner": "yaa110",
+            "repo": "nomino",
+            "stars": 708
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vgrep",
+          "description": "User-friendly pager for grep.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-17T05:54:51Z",
+            "owner": "vrothberg",
+            "repo": "vgrep",
+            "stars": 703
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "psrecord",
+          "description": "Record the CPU and memory activity of a process.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-03T17:55:06Z",
+            "owner": "astrofrog",
+            "repo": "psrecord",
+            "stars": 680
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "menyoki",
+          "description": "Screen{shot,cast} and perform ImageOps on the command line. (Web)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-12-08T08:58:24Z",
+            "owner": "orhun",
+            "repo": "menyoki",
+            "stars": 668
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "teip",
+          "description": "Select partial standard input and replace with the result of another command.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-04-22T15:58:05Z",
+            "owner": "greymd",
+            "repo": "teip",
+            "stars": 598
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rnr",
+          "description": "Command-line tool to batch rename files and directories.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-03-21T10:55:26Z",
+            "owner": "ismaelgv",
+            "repo": "rnr",
+            "stars": 594
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "godu",
+          "description": "Simple golang utility helping to discover large files/folders.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-05-26T12:02:18Z",
+            "owner": "viktomas",
+            "repo": "godu",
+            "stars": 582
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rargs",
+          "description": "Kind of xargs + awk with pattern-matching support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-07-30T08:34:10Z",
+            "owner": "lotabout",
+            "repo": "rargs",
+            "stars": 570
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hex",
+          "description": "Futuristic take on hexdump, made in Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-12-01T04:14:26Z",
+            "owner": "sitkevij",
+            "repo": "hex",
+            "stars": 566
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gomi",
+          "description": "Trash can in CLI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-06-07T07:24:09Z",
+            "owner": "babarot",
+            "repo": "gomi",
+            "stars": 561
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "imgur-screenshot",
+          "description": "Take screenshot selection, upload to Imgur. + more cool things.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Shell",
+            "last_commit": "2021-08-21T05:01:26Z",
+            "owner": "jomo",
+            "repo": "imgur-screenshot",
+            "stars": 556
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Freshfetch",
+          "description": "Fresh take on Neofetch.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-06-05T16:23:00Z",
+            "owner": "K4rakara",
+            "repo": "freshfetch",
+            "stars": 507
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "as-tree",
+          "description": "Print a list of paths as a tree of paths.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2021-10-07T12:59:11Z",
+            "owner": "jez",
+            "repo": "as-tree",
+            "stars": 503
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ruplacer",
+          "description": "Find and replace text in source files.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2026-02-20T19:57:19Z",
+            "owner": "your-tools",
+            "repo": "ruplacer",
+            "stars": 490
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kickstart",
+          "description": "Scaffolding tool to get new projects up and running quickly.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-12-21T22:50:42Z",
+            "owner": "Keats",
+            "repo": "kickstart",
+            "stars": 471
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "faq",
+          "description": "Format Agnostic jQ.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-10-02T15:27:05Z",
+            "owner": "jzelinskie",
+            "repo": "faq",
+            "stars": 464
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "todocheck",
+          "description": "Static code analyzer for annotated TODO comments.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-06-13T07:19:49Z",
+            "owner": "presmihaylov",
+            "repo": "todocheck",
+            "stars": 439
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "brok",
+          "description": "Find broken links in text documents. (HN)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Haskell",
+            "last_commit": "2023-03-06T10:48:55Z",
+            "owner": "smallhadroncollider",
+            "repo": "brok",
+            "stars": 423
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "calendarheatmap",
+          "description": "Calendar heatmap inspired by GitHub contribution activity.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2025-02-10T18:43:21Z",
+            "owner": "nikolaydubina",
+            "repo": "calendarheatmap",
+            "stars": 410
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "habitctl",
+          "description": "Minimalist command line tool you can use to track and examine your habits.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-04-19T16:57:19Z",
+            "owner": "blinry",
+            "repo": "habitctl",
+            "stars": 400
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dtool",
+          "description": "Collection of development tools.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-11-24T12:30:47Z",
+            "owner": "guoxbin",
+            "repo": "dtool",
+            "stars": 379
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tin-summer",
+          "description": "Find build artifacts that are taking up disk space.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2023-05-02T22:00:49Z",
+            "owner": "vmchale",
+            "repo": "tin-summer",
+            "stars": 340
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tree-grepper",
+          "description": "Like grep, but uses tree-sitter grammars to search.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2025-08-22T19:37:10Z",
+            "owner": "BrianHicks",
+            "repo": "tree-grepper",
+            "stars": 326
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gaze",
+          "description": "Runs a command, right after you save a file.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-13T14:14:50Z",
+            "owner": "wtetsu",
+            "repo": "gaze",
+            "stars": 315
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "twf",
+          "description": "Standalone tree view file explorer, inspired by fzf.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2021-12-03T23:11:16Z",
+            "owner": "wvanlint",
+            "repo": "twf",
+            "stars": 292
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "static-docs",
+          "description": "General-purpose library, purpose-built commands for various domains.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2019-12-09T11:52:43Z",
+            "owner": "apex",
+            "repo": "static",
+            "stars": 290
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fcat",
+          "description": "Cat implementation in Rust. Only works on Linux.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2026-07-20T10:19:51Z",
+            "owner": "mre",
+            "repo": "fcat",
+            "stars": 282
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "huniq",
+          "description": "Command line utility to remove duplicates from the given input. Note that huniq does not sort the input, it just removes duplicates.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-01-26T08:41:49Z",
+            "owner": "koraa",
+            "repo": "huniq",
+            "stars": 266
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pv",
+          "description": "Pipe Viewer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2022-04-03T00:32:28Z",
+            "owner": "icetee",
+            "repo": "pv",
+            "stars": 259
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "advancecomp",
+          "description": "Collection of recompression utilities for your .ZIP archives, .PNG snapshots, .MNG video clips and .GZ files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-07-16T15:04:23Z",
+            "owner": "amadvance",
+            "repo": "advancecomp",
+            "stars": 251
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hors",
+          "description": "Instant coding answers via the command line.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-04-05T15:56:46Z",
+            "owner": "WindSoilder",
+            "repo": "hors",
+            "stars": 248
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mediumexporter",
+          "description": "Export medium.com articles to markdown.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-08T12:33:52Z",
+            "owner": "xdamman",
+            "repo": "mediumexporter",
+            "stars": 240
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "map",
+          "description": "Map lines from stdin to commands.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2020-06-30T17:15:53Z",
+            "owner": "soveran",
+            "repo": "map",
+            "stars": 225
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "friendly-find",
+          "description": "Usable replacement for find.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-08-25T23:29:51Z",
+            "owner": "sjl",
+            "repo": "friendly-find",
+            "stars": 223
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dupe-krill",
+          "description": "Fast file deduplicator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-10-10T15:59:59Z",
+            "owner": "kornelski",
+            "repo": "dupe-krill",
+            "stars": 204
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Proji",
+          "description": "Powerful cross-platform CLI project templating tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2022-12-30T22:23:07Z",
+            "owner": "proji-rocks",
+            "repo": "proji",
+            "stars": 202
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fzz",
+          "description": "Allows you to change the input of a single command interactively.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2016-08-17T05:14:52Z",
+            "owner": "mrnugget",
+            "repo": "fzz",
+            "stars": 201
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "temci",
+          "description": "Advanced benchmarking tool written in Python 3 that supports setting up an environment for benchmarking and the generation of visually appealing reports.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-29T09:28:17Z",
+            "owner": "parttimenerd",
+            "repo": "temci",
+            "stars": 200
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "chars",
+          "description": "Display names and codes for various ASCII (and unicode) characters / code points.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-06-05T04:06:50Z",
+            "owner": "boinkor-net",
+            "repo": "chars",
+            "stars": 188
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sweep",
+          "description": "Reduce the disk usage of your projects by removing dependencies & builds.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-07-10T13:14:18Z",
+            "owner": "woubuc",
+            "repo": "sweep",
+            "stars": 182
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "prism",
+          "description": "RTMP stream recaster / splitter.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-11-22T00:35:47Z",
+            "owner": "muesli",
+            "repo": "prism",
+            "stars": 174
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pazi",
+          "description": "Fast autojump helper.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-09T10:08:36Z",
+            "owner": "euank",
+            "repo": "pazi",
+            "stars": 167
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "qq",
+          "description": "Select stdin with query.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2018-08-03T03:48:19Z",
+            "owner": "mattn",
+            "repo": "qq",
+            "stars": 166
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Orderly",
+          "description": "Tool that provides ordered and controlled start, stop, restart and cleanup of a group of processes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2020-10-01T00:38:26Z",
+            "owner": "andrewchambers",
+            "repo": "orderly",
+            "stars": 162
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "license-up",
+          "description": "Create a license quickly for a given name.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-01-22T12:21:10Z",
+            "owner": "nikivdev",
+            "repo": "license-up",
+            "stars": 109
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "camlp4",
+          "description": "Software system for writing extensible parsers for programming languages.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "OCaml",
+            "last_commit": "2026-06-25T18:48:23Z",
+            "owner": "camlp4",
+            "repo": "camlp4",
+            "stars": 104
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IDNT",
+          "description": "Batch software uninstall.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2022-02-12T07:46:25Z",
+            "owner": "r-darwish",
+            "repo": "idnt",
+            "stars": 103
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Untree",
+          "description": "Converts tree diagrams produced by tree back into directory file structures.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-06-17T03:00:06Z",
+            "owner": "codeinred",
+            "repo": "untree",
+            "stars": 100
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hostblock",
+          "description": "Simple terminal interface for blocking websites via the /etc/hosts file.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2020-03-29T21:25:34Z",
+            "owner": "cgag",
+            "repo": "hostblock",
+            "stars": 96
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lorem",
+          "description": "Python lorem ipsum generator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-02-22T15:25:55Z",
+            "owner": "per9000",
+            "repo": "lorem",
+            "stars": 90
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wifi-password",
+          "description": "Quickly share Wi-Fi connection info.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2024-05-07T05:10:31Z",
+            "owner": "bradyjoslin",
+            "repo": "sharewifi",
+            "stars": 86
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fzwiki",
+          "description": "Command with fzf-like UI to quickly search Wikipedia articles and open it in your browser.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2022-06-10T12:16:00Z",
+            "owner": "sheepla",
+            "repo": "fzwiki",
+            "stars": 83
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "spotify-ripper",
+          "description": "Rip Spotify URIs to MP3 files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2015-03-07T14:22:59Z",
+            "owner": "tmerten",
+            "repo": "spotify-ripper",
+            "stars": 78
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "luneta",
+          "description": "Interactive filter that can be easily composed within any script.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2023-08-14T17:27:35Z",
+            "owner": "fbeline",
+            "repo": "luneta",
+            "stars": 63
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "conan",
+          "description": "Find clue about the type of the file.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "OCaml",
+            "last_commit": "2026-03-06T08:14:34Z",
+            "owner": "mirage",
+            "repo": "conan",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rtss",
+          "description": "Relative TimeStamps for Stuff.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2021-10-14T13:44:24Z",
+            "owner": "Freaky",
+            "repo": "rtss",
+            "stars": 56
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Renamer",
+          "description": "Command line utility to batch-rename files via your editor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2021-10-08T17:12:12Z",
+            "owner": "innocenzi",
+            "repo": "rename",
+            "stars": 55
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PWatch",
+          "description": "Process Watcher.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2022-09-03T23:03:31Z",
+            "owner": "VladimirMarkelov",
+            "repo": "pwatch",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "undent",
+          "description": "Unindent text/code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2020-12-17T05:14:07Z",
+            "owner": "bradfitz",
+            "repo": "undent",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cbf",
+          "description": "Build custom CLI apps with only a json or yaml file.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-02-27T15:32:07Z",
+            "owner": "joshuatvernon",
+            "repo": "cbf",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "eisd",
+          "description": "Execute your favorite command in SubDirectories.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-01-15T04:44:45Z",
+            "owner": "guidsdo",
+            "repo": "eisd",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "squeeze",
+          "description": "Enables to extract rich information from any text (raw, JSON, HTML, YAML, etc).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-11T14:54:32Z",
+            "owner": "aymericbeaumet",
+            "repo": "squeeze",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "spin",
+          "description": "Simple scaffolding tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2021-12-25T13:57:09Z",
+            "owner": "egoist",
+            "repo": "spin",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wfh",
+          "description": "Continuously watches your local directories and rsync them against a remote host.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-02-06T15:02:13Z",
+            "owner": "kzys",
+            "repo": "wfh",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "url-parser",
+          "description": "Command-line URL parser, written in Go.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2017-07-17T07:13:37Z",
+            "owner": "herloct",
+            "repo": "url-parser",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pastefile",
+          "description": "Create a file that contains the contents from the clipboard.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-09-20T19:46:53Z",
+            "owner": "xyproto",
+            "repo": "pastefile",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github-stats",
+          "description": "Command-line tool to get the total traffic statistics of your GitHub repositories.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-08-28T21:01:14Z",
+            "owner": "umutphp",
+            "repo": "github-stats",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hask-replace",
+          "description": "Command-line tool to rename modules in Haskell projects.",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "alt",
+          "description": "Find alternate files.",
+          "children": []
+        }
+      ],
+      "title": "Other"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome shell",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-08-28T14:40:51Z",
+            "owner": "alebcay",
+            "repo": "awesome-shell",
+            "stars": 37437
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome CLI apps",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-04T17:57:03Z",
+            "owner": "agarrharr",
+            "repo": "awesome-cli-apps",
+            "stars": 20153
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Structured text tools",
+          "description": "List of text-based file formats and command line tools for manipulating each.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-12T19:53:32Z",
+            "owner": "dbohdan",
+            "repo": "structured-text-tools",
+            "stars": 7141
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome command line apps",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2026-03-04T11:04:17Z",
+            "owner": "herrbischoff",
+            "repo": "awesome-command-line-apps",
+            "stars": 4206
+          }
+        }
+      ],
+      "title": "Related"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T21:31:13.086Z",
+    "original_repository": "linsa-io/command-line-tools",
+    "original_repository_sha": "7a5442ae49b8efa16e1fb377ed0917b08fb8b684",
+    "enhanced_repository": "enhansome/enhansome-command-line-tools",
+    "enhanced_repository_description": null,
+    "title": "Awesome Command line tools with stars"
+  }
+}
