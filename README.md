@@ -39,7 +39,7 @@
 
 ## Fun
 
-* [primitive](https://github.com/fogleman/primitive) ⭐ 13,598 | 🐛 55 | 🌐 Go | 📅 2024-07-22 - reproducing images with geometric primitives.
+* [primitive](https://github.com/fogleman/primitive) ⭐ 13,601 | 🐛 55 | 🌐 Go | 📅 2024-07-22 - reproducing images with geometric primitives.
 
 ## Games
 
@@ -47,7 +47,7 @@
 
 ## Git
 
-* [hub](https://github.com/github/hub) ⭐ 22,956 | 🐛 294 | 🌐 Go | 📅 2024-02-02 - Wrapper around Git to extend it with features.
+* [hub](https://github.com/github/hub) ⭐ 22,957 | 🐛 294 | 🌐 Go | 📅 2024-02-02 - Wrapper around Git to extend it with features.
 * [fac](https://github.com/mkchoi212/fac) ⭐ 1,853 | 🐛 9 | 🌐 Go | 📅 2023-12-29 - Easy-to-use CUI for fixing git conflicts.
 * [git](https://www.explainshell.com/explain/git) - The stupid content tracker.
 * [tig](https://jonas.github.io/tig/) - Text-mode interface for git.
@@ -73,7 +73,7 @@
 
 * [mas](https://github.com/mas-cli/mas) ⭐ 12,432 | 🐛 89 | 🌐 Swift | 📅 2026-11-16 - Command line interface for the Mac App Store.
 * [m-cli](https://github.com/rgcr/m-cli) ⭐ 9,921 | 🐛 14 | 🌐 Shell | 📅 2026-06-02 - Swiss Army Knife for macOS.
-* [displayplacer](https://github.com/jakehilborn/displayplacer) ⭐ 4,557 | 🐛 102 | 🌐 C | 📅 2024-06-05 - macOS command line utility to configure multi-display resolutions and arrangements. Essentially XRandR for macOS.
+* [displayplacer](https://github.com/jakehilborn/displayplacer) ⭐ 4,558 | 🐛 102 | 🌐 C | 📅 2024-06-05 - macOS command line utility to configure multi-display resolutions and arrangements. Essentially XRandR for macOS.
 * [iStats](https://github.com/Chris911/iStats) ⭐ 2,456 | 🐛 32 | 🌐 Ruby | 📅 2023-01-29 - Mac stats.
 * [switchaudio-osx](https://github.com/deweller/switchaudio-osx) ⭐ 1,459 | 🐛 21 | 🌐 C | 📅 2024-07-07 - Change the audio source for Mac OS X from the command line.
 * [do-not-disturb](https://github.com/sindresorhus/do-not-disturb-cli) ⚠️ Archived - Control the macOS `Do Not Disturb` feature.
@@ -86,9 +86,9 @@
 
 ## Networking
 
-* [httpie](https://github.com/httpie/httpie) ⭐ 38,720 | 🐛 363 | 🌐 Python | 📅 2024-12-17 - Modern, user-friendly command-line HTTP client for the API era.
-* [sshuttle](https://github.com/sshuttle/sshuttle) ⭐ 13,666 | 🐛 197 | 🌐 Python | 📅 2026-11-16 - Transparent proxy server that works as a poor man's VPN. Forwards over ssh. Doesn't require admin. Works with Linux and MacOS. Supports DNS tunneling.
-* [bandwhich](https://github.com/imsnif/bandwhich) ⭐ 12,067 | 🐛 57 | 🌐 Rust | 📅 2026-08-01 - CLI utility for displaying current network utilization by process, connection and remote IP/hostname.
+* [httpie](https://github.com/httpie/httpie) ⭐ 38,720 | 🐛 365 | 🌐 Python | 📅 2024-12-17 - Modern, user-friendly command-line HTTP client for the API era.
+* [sshuttle](https://github.com/sshuttle/sshuttle) ⭐ 13,669 | 🐛 197 | 🌐 Python | 📅 2026-11-17 - Transparent proxy server that works as a poor man's VPN. Forwards over ssh. Doesn't require admin. Works with Linux and MacOS. Supports DNS tunneling.
+* [bandwhich](https://github.com/imsnif/bandwhich) ⭐ 12,069 | 🐛 57 | 🌐 Rust | 📅 2026-08-01 - CLI utility for displaying current network utilization by process, connection and remote IP/hostname.
 * [http-prompt](https://github.com/httpie/http-prompt) ⭐ 9,109 | 🐛 55 | 🌐 Python | 📅 2024-05-21 - Interactive command-line HTTP and API testing tool built on top of HTTPie with autocomplete, syntax highlighting, and more.
 * [sshfs](https://github.com/libfuse/sshfs) ⭐ 7,756 | 🐛 63 | 🌐 C | 📅 2026-11-14 - Network filesystem client to connect to SSH servers.
 * [curlie](https://github.com/rs/curlie) ⭐ 3,732 | 🐛 33 | 🌐 Go | 📅 2025-12-07 - Power of curl, the ease of use of httpie.
@@ -115,19 +115,19 @@
 
 ## Python
 
-* [rq](https://github.com/rq/rq) ⭐ 10,705 | 🐛 275 | 🌐 Python | 📅 2026-11-14 - Simple job queues for Python.
+* [rq](https://github.com/rq/rq) ⭐ 10,705 | 🐛 277 | 🌐 Python | 📅 2026-11-14 - Simple job queues for Python.
 * [livepython](https://github.com/agermanidis/livepython) ⭐ 2,562 | 🐛 11 | 🌐 JavaScript | 📅 2019-01-22 - Visually trace python code in real-time.
 * [tg](https://github.com/paul-nameless/tg) ⭐ 1,201 | 🐛 0 | 🌐 Python | 📅 2026-11-16 - Telegram terminal client.
 * [visa-cli](https://github.com/rand-net/visa-cli) ⚠️ Archived - Visa Requirements terminal interface.
 
 ## Ruby
 
-* [rbenv](https://github.com/rbenv/rbenv) ⭐ 16,743 | 🐛 20 | 🌐 Shell | 📅 2026-07-14 - Groom your app’s Ruby environment.
-* [ruby-build](https://github.com/rbenv/ruby-build) ⭐ 3,988 | 🐛 4 | 🌐 Shell | 📅 2026-11-05 - Compile and install Ruby.
+* [rbenv](https://github.com/rbenv/rbenv) ⭐ 16,745 | 🐛 20 | 🌐 Shell | 📅 2026-07-14 - Groom your app’s Ruby environment.
+* [ruby-build](https://github.com/rbenv/ruby-build) ⭐ 3,989 | 🐛 4 | 🌐 Shell | 📅 2026-11-05 - Compile and install Ruby.
 
 ## Rust
 
-* [rustup](https://github.com/rust-lang-nursery/rustup.rs) ⭐ 7,128 | 🐛 429 | 🌐 Rust | 📅 2026-11-16 - Rust toolchain installer.
+* [rustup](https://github.com/rust-lang-nursery/rustup.rs) ⭐ 7,128 | 🐛 431 | 🌐 Rust | 📅 2026-11-17 - Rust toolchain installer.
 * [project init](https://github.com/vmchale/project-init) ⚠️ Archived - Project templates in rust.
 * [Tree Ring Memory](https://github.com/TerminallyLazy/Tree-Ring-Memory) ⭐ 22 | 🐛 3 | 🌐 Rust | 📅 2026-09-17 - Local-first memory lifecycle CLI for AI agents with SQLite/FTS recall, forgetting, audit, consolidation, and TUI.
 
@@ -138,16 +138,16 @@
 
 ## Text editors
 
-* [neovim](https://github.com/neovim/neovim) ⭐ 103,721 | 🐛 2,002 | 🌐 Vim Script | 📅 2026-11-16 - Vim-fork focused on extensibility and usability.
-* [helix](https://github.com/helix-editor/helix) ⭐ 46,909 | 🐛 1,779 | 🌐 Rust | 📅 2026-11-16 - A Kakoune / Neovim inspired editor, written in Rust.
-* [vim](https://github.com/vim/vim) ⭐ 41,294 | 🐛 1,816 | 🌐 Vim Script | 📅 2026-11-15 - Modal text editor.
-* [micro](https://github.com/zyedidia/micro) ⭐ 29,907 | 🐛 916 | 🌐 Go | 📅 2026-11-17 - Modern and intuitive terminal-based text editor.
-* [kakoune](https://github.com/mawww/kakoune) ⭐ 11,145 | 🐛 928 | 🌐 C++ | 📅 2026-10-30 - Modal editor with multi selections.
+* [neovim](https://github.com/neovim/neovim) ⭐ 103,934 | 🐛 1,997 | 🌐 Vim Script | 📅 2026-11-18 - Vim-fork focused on extensibility and usability.
+* [helix](https://github.com/helix-editor/helix) ⭐ 46,919 | 🐛 1,778 | 🌐 Rust | 📅 2026-11-17 - A Kakoune / Neovim inspired editor, written in Rust.
+* [vim](https://github.com/vim/vim) ⭐ 41,418 | 🐛 1,804 | 🌐 Vim Script | 📅 2026-11-17 - Modal text editor.
+* [micro](https://github.com/zyedidia/micro) ⭐ 29,915 | 🐛 913 | 🌐 Go | 📅 2026-11-18 - Modern and intuitive terminal-based text editor.
+* [kakoune](https://github.com/mawww/kakoune) ⭐ 11,146 | 🐛 928 | 🌐 C++ | 📅 2026-10-30 - Modal editor with multi selections.
 * [emacs](https://www.explainshell.com/explain/emacs) - Extendable/customizable text editor.
 
 ## Web
 
-* [create-react-app](https://github.com/facebookincubator/create-react-app) ⭐ 103,230 | 🐛 2,407 | 🌐 JavaScript | 📅 2025-02-15 - Create React apps with no build configuration.
+* [create-react-app](https://github.com/facebookincubator/create-react-app) ⭐ 103,228 | 🐛 2,407 | 🌐 JavaScript | 📅 2025-02-15 - Create React apps with no build configuration.
 * [up](https://github.com/apex/up) ⭐ 8,789 | 🐛 295 | 🌐 Go | 📅 2024-03-15 - Deploy infinitely scalable serverless apps, apis, and sites in seconds to AWS.
 * [preact](https://github.com/developit/preact-cli) ⭐ 4,656 | 🐛 77 | 🌐 JavaScript | 📅 2024-03-27 - Create preact app.
 * [urlsup](https://github.com/simeg/urlsup) ⭐ 18 | 🐛 1 | 🌐 Rust | 📅 2026-09-01 - CLI to validate URLs in files.
@@ -155,8 +155,8 @@
 
 ## Logging
 
-* [goaccess](https://github.com/allinurl/goaccess) ⭐ 21,135 | 🐛 449 | 🌐 C | 📅 2026-11-13 - Real-time web log analyzer and interactive viewer that runs in a terminal in nix systems or through your browser.
-* [lnav](https://github.com/tstack/lnav) ⭐ 10,805 | 🐛 300 | 🌐 C++ | 📅 2026-11-14 - Advanced log file viewer for the small-scale; Watch and analyze your log files from a terminal.
+* [goaccess](https://github.com/allinurl/goaccess) ⭐ 21,139 | 🐛 449 | 🌐 C | 📅 2026-11-13 - Real-time web log analyzer and interactive viewer that runs in a terminal in nix systems or through your browser.
+* [lnav](https://github.com/tstack/lnav) ⭐ 10,807 | 🐛 300 | 🌐 C++ | 📅 2026-11-17 - Advanced log file viewer for the small-scale; Watch and analyze your log files from a terminal.
 * [angle-grinder](https://github.com/rcoh/angle-grinder) ⭐ 3,769 | 🐛 29 | 🌐 Rust | 📅 2026-02-05 - Slice and dice logs on the command line.
 * [red](https://github.com/antonmedv/red) ⭐ 1,490 | 🐛 2 | 🌐 Go | 📅 2026-05-12 - Terminal log analysis tools.
 * [agenttrace](https://github.com/luoyuctl/agenttrace) ⭐ 157 | 🐛 5 | 🌐 Rust | 📅 2026-11-16 - Inspect AI coding agent logs for cost, failures, latency, anomalies, and health gates.
@@ -164,121 +164,121 @@
 
 ## Other
 
-* [fzf](https://github.com/junegunn/fzf) ⭐ 84,231 | 🐛 334 | 🌐 Go | 📅 2026-11-12 - Command-line fuzzy finder.
+* [fzf](https://github.com/junegunn/fzf) ⭐ 84,249 | 🐛 336 | 🌐 Go | 📅 2026-11-12 - Command-line fuzzy finder.
 * [you-get](https://github.com/soimort/you-get) ⭐ 56,846 | 🐛 382 | 🌐 Python | 📅 2026-11-15 - Dumb downloader that scrapes the web.
-* [fd](https://github.com/sharkdp/fd) ⭐ 45,082 | 🐛 206 | 🌐 Rust | 📅 2026-11-14 - Simple, fast and user-friendly alternative to 'find'.
-* [aria2A](https://github.com/aria2/aria2) ⭐ 43,537 | 🐛 1,190 | 🌐 C++ | 📅 2026-06-25 - Lightweight multi-protocol & multi-source, cross platform download utility.
-* [croc](https://github.com/schollz/croc) ⭐ 40,958 | 🐛 5 | 🌐 Go | 📅 2026-11-16 - Easily get things from one computer to another.
-* [zoxide](https://github.com/ajeetdsouza/zoxide) ⭐ 40,611 | 🐛 159 | 🌐 Rust | 📅 2026-11-08 - cd command that learns your habits.
-* [just](https://github.com/casey/just) ⭐ 36,720 | 🐛 172 | 🌐 Rust | 📅 2026-11-15 - Handy way to save and run project-specific commands.
-* [jq](https://github.com/stedolan/jq) ⭐ 36,156 | 🐛 441 | 🌐 C | 📅 2026-11-02 - Command-line JSON processor. ([Mastering JQ](https://codefaster.substack.com/p/mastering-jq-part-1-59c))
-* [Czkawka](https://github.com/qarmin/czkawka) ⭐ 35,254 | 🐛 296 | 🌐 Fluent | 📅 2026-11-16 - Multi functional app to find duplicates, empty folders, similar images etc.
-* [delta](https://github.com/dandavison/delta) ⭐ 32,740 | 🐛 501 | 🌐 Rust | 📅 2026-11-17 - Syntax-highlighter for git and diff output.
-* [hyperfine](https://github.com/sharkdp/hyperfine) ⭐ 29,288 | 🐛 80 | 🌐 Rust | 📅 2026-11-01 - Command-line benchmarking tool.
-* [glow](https://github.com/charmbracelet/glow) ⭐ 28,065 | 🐛 268 | 🌐 Go | 📅 2026-11-04 - Render markdown on the CLI, with pizzazz.
-* [ag](https://github.com/ggreer/the_silver_searcher) ⭐ 27,122 | 🐛 564 | 🌐 C | 📅 2024-06-16 - Recursively search for pattern.
-* [Difftastic](https://github.com/Wilfred/difftastic) ⭐ 26,190 | 🐛 288 | 🌐 Rust | 📅 2026-11-15 - Syntax-aware structured diff tool. ([HN](https://news.ycombinator.com/item?id=27768861))
-* [asdf](https://github.com/asdf-vm/asdf) ⭐ 25,623 | 🐛 153 | 🌐 Go | 📅 2026-11-11 - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more.
+* [fd](https://github.com/sharkdp/fd) ⭐ 45,097 | 🐛 207 | 🌐 Rust | 📅 2026-11-14 - Simple, fast and user-friendly alternative to 'find'.
+* [aria2A](https://github.com/aria2/aria2) ⭐ 43,545 | 🐛 1,190 | 🌐 C++ | 📅 2026-06-25 - Lightweight multi-protocol & multi-source, cross platform download utility.
+* [croc](https://github.com/schollz/croc) ⭐ 40,970 | 🐛 6 | 🌐 Go | 📅 2026-11-16 - Easily get things from one computer to another.
+* [zoxide](https://github.com/ajeetdsouza/zoxide) ⭐ 40,628 | 🐛 161 | 🌐 Rust | 📅 2026-11-08 - cd command that learns your habits.
+* [just](https://github.com/casey/just) ⭐ 36,738 | 🐛 172 | 🌐 Rust | 📅 2026-11-15 - Handy way to save and run project-specific commands.
+* [jq](https://github.com/stedolan/jq) ⭐ 36,166 | 🐛 440 | 🌐 C | 📅 2026-11-02 - Command-line JSON processor. ([Mastering JQ](https://codefaster.substack.com/p/mastering-jq-part-1-59c))
+* [Czkawka](https://github.com/qarmin/czkawka) ⭐ 35,275 | 🐛 297 | 🌐 Fluent | 📅 2026-11-16 - Multi functional app to find duplicates, empty folders, similar images etc.
+* [delta](https://github.com/dandavison/delta) ⭐ 32,750 | 🐛 502 | 🌐 Rust | 📅 2026-11-17 - Syntax-highlighter for git and diff output.
+* [hyperfine](https://github.com/sharkdp/hyperfine) ⭐ 29,296 | 🐛 80 | 🌐 Rust | 📅 2026-11-01 - Command-line benchmarking tool.
+* [glow](https://github.com/charmbracelet/glow) ⭐ 28,078 | 🐛 268 | 🌐 Go | 📅 2026-11-04 - Render markdown on the CLI, with pizzazz.
+* [ag](https://github.com/ggreer/the_silver_searcher) ⭐ 27,124 | 🐛 564 | 🌐 C | 📅 2024-06-16 - Recursively search for pattern.
+* [Difftastic](https://github.com/Wilfred/difftastic) ⭐ 26,199 | 🐛 288 | 🌐 Rust | 📅 2026-11-15 - Syntax-aware structured diff tool. ([HN](https://news.ycombinator.com/item?id=27768861))
+* [asdf](https://github.com/asdf-vm/asdf) ⭐ 25,624 | 🐛 153 | 🌐 Go | 📅 2026-11-11 - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more.
 * [exa](https://github.com/ogham/exa) ⭐ 24,453 | 🐛 214 | 🌐 Rust | 📅 2024-09-24 - Replacement for ls written in Rust.
 * [pkg](https://github.com/zeit/pkg) ⚠️ Archived - Package your node.js project into an executable.
 * [neofetch](https://github.com/dylanaraps/neofetch) ⚠️ Archived - Displays information about your operating system, software and hardware in an aesthetic and visually pleasing way.
-* [RustScan](https://github.com/RustScan/RustScan) ⭐ 20,730 | 🐛 20 | 🌐 Rust | 📅 2026-11-04 - Modern Port Scanner.
+* [RustScan](https://github.com/RustScan/RustScan) ⭐ 20,739 | 🐛 20 | 🌐 Rust | 📅 2026-11-04 - Modern Port Scanner.
 * [gotty](https://github.com/yudai/gotty) ⭐ 19,560 | 🐛 159 | 🌐 Go | 📅 2024-08-01 - Share your terminal as a web application.
-* [navi](https://github.com/denisidoro/navi) ⭐ 17,866 | 🐛 130 | 🌐 Rust | 📅 2026-10-16 - Interactive cheatsheet tool for the command-line.
-* [ctop](https://github.com/bcicen/ctop) ⭐ 17,853 | 🐛 122 | 🌐 Go | 📅 2024-07-08 - Container metric viewer.
-* [wtf](https://github.com/wtfutil/wtf) ⭐ 17,153 | 🐛 107 | 🌐 Go | 📅 2026-11-14 - Personal information dashboard for your terminal.
-* [now](https://github.com/zeit/now) ⭐ 16,608 | 🐛 866 | 🌐 TypeScript | 📅 2026-11-16 - Develop. Preview. Ship.
-* [yq](https://github.com/mikefarah/yq) ⭐ 16,297 | 🐛 339 | 🌐 Go | 📅 2026-11-12 - Portable command-line YAML processor.
+* [navi](https://github.com/denisidoro/navi) ⭐ 17,868 | 🐛 130 | 🌐 Rust | 📅 2026-10-16 - Interactive cheatsheet tool for the command-line.
+* [ctop](https://github.com/bcicen/ctop) ⭐ 17,857 | 🐛 122 | 🌐 Go | 📅 2024-07-08 - Container metric viewer.
+* [wtf](https://github.com/wtfutil/wtf) ⭐ 17,155 | 🐛 107 | 🌐 Go | 📅 2026-11-14 - Personal information dashboard for your terminal.
+* [now](https://github.com/zeit/now) ⭐ 16,620 | 🐛 867 | 🌐 TypeScript | 📅 2026-11-17 - Develop. Preview. Ship.
+* [yq](https://github.com/mikefarah/yq) ⭐ 16,305 | 🐛 339 | 🌐 Go | 📅 2026-11-12 - Portable command-line YAML processor.
 * [lsd](https://github.com/Peltoche/lsd) ⭐ 16,292 | 🐛 218 | 🌐 Rust | 📅 2026-08-17 - Next gen ls command.
-* [direnv](https://github.com/direnv/direnv) ⭐ 15,550 | 🐛 349 | 🌐 Go | 📅 2026-11-16 - Unclutter your .profile.
-* [duf](https://github.com/muesli/duf) ⭐ 15,387 | 🐛 86 | 🌐 Go | 📅 2026-11-15 - Disk Usage/Free Utility.
-* [mackup](https://github.com/lra/mackup) ⭐ 15,359 | 🐛 293 | 🌐 Python | 📅 2026-11-10 - Keep your application settings in sync (OS X/Linux).
-* [scipy](https://github.com/scipy/scipy) ⭐ 15,221 | 🐛 1,915 | 🌐 Python | 📅 2026-11-16 - Open-source software for mathematics, science, and engineering.
-* [tokei](https://github.com/Aaronepower/tokei) ⭐ 15,073 | 🐛 259 | 🌐 Rust | 📅 2026-09-06 - Display statistics about your code. ([Reddit](https://www.reddit.com/r/rust/comments/hdr6gd/announcing_tokei_12_a_fast_accurate_code_analysis/))
-* [espanso](https://github.com/federico-terzi/espanso) ⭐ 14,794 | 🐛 593 | 🌐 Rust | 📅 2026-11-15 - Cross-platform Text Expander written in Rust.
-* [bottom](https://github.com/ClementTsang/bottom) ⭐ 14,197 | 🐛 103 | 🌐 Rust | 📅 2026-11-16 - Cross-platform graphical process/system monitor with a customizable interface and a multitude of features.
-* [pgcli](https://github.com/dbcli/pgcli) ⭐ 13,448 | 🐛 56 | 🌐 Python | 📅 2026-11-04 - Postgres CLI with autocompletion and syntax highlighting.
-* [broot](https://github.com/Canop/broot) ⭐ 13,161 | 🐛 103 | 🌐 Rust | 📅 2026-11-12 - New way to see and navigate directory trees.
-* [gping](https://github.com/orf/gping) ⭐ 12,745 | 🐛 44 | 🌐 Rust | 📅 2026-11-16 - Ping, but with a graph.
-* [dust](https://github.com/bootandy/dust) ⭐ 12,643 | 🐛 16 | 🌐 Rust | 📅 2026-11-01 - More intuitive version of du in rust.
-* [mycli](https://github.com/dbcli/mycli) ⭐ 11,997 | 🐛 1 | 🌐 Python | 📅 2026-11-16 - Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
-* [hexyl](https://github.com/sharkdp/hexyl) ⭐ 10,311 | 🐛 43 | 🌐 Rust | 📅 2026-04-30 - Command-line hex viewer.
-* [miller](https://github.com/johnkerl/miller) ⭐ 10,063 | 🐛 78 | 🌐 Go | 📅 2026-11-16 - Like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON.
-* [rga](https://github.com/phiresky/ripgrep-all) ⭐ 9,930 | 🐛 81 | 🌐 Rust | 📅 2026-09-17 - Ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
-* [visidata](https://github.com/saulpw/visidata) ⭐ 9,474 | 🐛 8 | 🌐 Python | 📅 2026-11-11 - Terminal spreadsheet multitool for discovering and arranging data.
-* [scc](https://github.com/boyter/scc) ⭐ 8,880 | 🐛 26 | 🌐 Go | 📅 2026-11-15 - Very fast accurate code counter with complexity calculations and COCOMO estimates.
-* [jc](https://github.com/kellyjonbrazil/jc) ⭐ 8,704 | 🐛 46 | 🌐 Python | 📅 2026-11-14 - Serializes the output of popular gnu linux command line tools and file types to structured JSON output. This allows piping of output to tools like jq.
-* [wego](https://github.com/schachmat/wego) ⭐ 8,570 | 🐛 18 | 🌐 Go | 📅 2026-11-01 - Weather app for the terminal.
-* [dasel](https://github.com/TomWright/dasel) ⭐ 8,075 | 🐛 30 | 🌐 Go | 📅 2026-11-02 - Allows you to query and modify data structures using selector strings.
-* [McFly](https://github.com/cantino/mcfly) ⭐ 7,828 | 🐛 139 | 🌐 Rust | 📅 2026-09-01 - Fly through your shell history.
+* [direnv](https://github.com/direnv/direnv) ⭐ 15,555 | 🐛 349 | 🌐 Go | 📅 2026-11-16 - Unclutter your .profile.
+* [duf](https://github.com/muesli/duf) ⭐ 15,391 | 🐛 86 | 🌐 Go | 📅 2026-11-15 - Disk Usage/Free Utility.
+* [mackup](https://github.com/lra/mackup) ⭐ 15,359 | 🐛 291 | 🌐 Python | 📅 2026-11-17 - Keep your application settings in sync (OS X/Linux).
+* [scipy](https://github.com/scipy/scipy) ⭐ 15,224 | 🐛 1,922 | 🌐 Python | 📅 2026-11-17 - Open-source software for mathematics, science, and engineering.
+* [tokei](https://github.com/Aaronepower/tokei) ⭐ 15,077 | 🐛 260 | 🌐 Rust | 📅 2026-09-06 - Display statistics about your code. ([Reddit](https://www.reddit.com/r/rust/comments/hdr6gd/announcing_tokei_12_a_fast_accurate_code_analysis/))
+* [espanso](https://github.com/federico-terzi/espanso) ⭐ 14,799 | 🐛 593 | 🌐 Rust | 📅 2026-11-15 - Cross-platform Text Expander written in Rust.
+* [bottom](https://github.com/ClementTsang/bottom) ⭐ 14,202 | 🐛 101 | 🌐 Rust | 📅 2026-11-18 - Cross-platform graphical process/system monitor with a customizable interface and a multitude of features.
+* [pgcli](https://github.com/dbcli/pgcli) ⭐ 13,451 | 🐛 56 | 🌐 Python | 📅 2026-11-04 - Postgres CLI with autocompletion and syntax highlighting.
+* [broot](https://github.com/Canop/broot) ⭐ 13,164 | 🐛 103 | 🌐 Rust | 📅 2026-11-12 - New way to see and navigate directory trees.
+* [gping](https://github.com/orf/gping) ⭐ 12,746 | 🐛 44 | 🌐 Rust | 📅 2026-11-16 - Ping, but with a graph.
+* [dust](https://github.com/bootandy/dust) ⭐ 12,647 | 🐛 17 | 🌐 Rust | 📅 2026-11-01 - More intuitive version of du in rust.
+* [mycli](https://github.com/dbcli/mycli) ⭐ 11,997 | 🐛 0 | 🌐 Python | 📅 2026-11-17 - Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
+* [hexyl](https://github.com/sharkdp/hexyl) ⭐ 10,313 | 🐛 43 | 🌐 Rust | 📅 2026-04-30 - Command-line hex viewer.
+* [miller](https://github.com/johnkerl/miller) ⭐ 10,064 | 🐛 79 | 🌐 Go | 📅 2026-11-17 - Like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON.
+* [rga](https://github.com/phiresky/ripgrep-all) ⭐ 9,932 | 🐛 81 | 🌐 Rust | 📅 2026-09-17 - Ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
+* [visidata](https://github.com/saulpw/visidata) ⭐ 9,475 | 🐛 8 | 🌐 Python | 📅 2026-11-11 - Terminal spreadsheet multitool for discovering and arranging data.
+* [scc](https://github.com/boyter/scc) ⭐ 8,884 | 🐛 27 | 🌐 Go | 📅 2026-11-17 - Very fast accurate code counter with complexity calculations and COCOMO estimates.
+* [jc](https://github.com/kellyjonbrazil/jc) ⭐ 8,705 | 🐛 46 | 🌐 Python | 📅 2026-11-14 - Serializes the output of popular gnu linux command line tools and file types to structured JSON output. This allows piping of output to tools like jq.
+* [wego](https://github.com/schachmat/wego) ⭐ 8,572 | 🐛 18 | 🌐 Go | 📅 2026-11-01 - Weather app for the terminal.
+* [dasel](https://github.com/TomWright/dasel) ⭐ 8,076 | 🐛 33 | 🌐 Go | 📅 2026-11-02 - Allows you to query and modify data structures using selector strings.
+* [McFly](https://github.com/cantino/mcfly) ⭐ 7,827 | 🐛 139 | 🌐 Rust | 📅 2026-09-01 - Fly through your shell history.
 * [sd](https://github.com/chmln/sd) ⭐ 7,430 | 🐛 87 | 🌐 Rust | 📅 2026-02-25 - Intuitive find & replace CLI.
 * [ffsend](https://github.com/timvisee/ffsend) ⭐ 7,424 | 🐛 33 | 🌐 Rust | 📅 2025-11-20 - Easily and securely share files from the command line. A fully featured Firefox Send client.
-* [watchexec](https://github.com/watchexec/watchexec) ⭐ 7,294 | 🐛 42 | 🌐 Rust | 📅 2026-11-13 - Executes commands in response to file modifications.
-* [buku](https://github.com/jarun/buku) ⭐ 7,256 | 🐛 8 | 🌐 Python | 📅 2026-11-07 - Browser-independent bookmark manager.
+* [watchexec](https://github.com/watchexec/watchexec) ⭐ 7,297 | 🐛 42 | 🌐 Rust | 📅 2026-11-13 - Executes commands in response to file modifications.
+* [buku](https://github.com/jarun/buku) ⭐ 7,256 | 🐛 1 | 🌐 Python | 📅 2026-11-17 - Browser-independent bookmark manager.
 * [fkill](https://github.com/sindresorhus/fkill-cli) ⭐ 7,015 | 🐛 6 | 🌐 JavaScript | 📅 2025-11-09 - Kill processes.
-* [skim](https://github.com/lotabout/skim) ⭐ 7,015 | 🐛 8 | 🌐 Rust | 📅 2026-11-17 - Fuzzy Finder in rust.
-* [tealdeer](https://github.com/dbrgn/tealdeer) ⭐ 6,672 | 🐛 19 | 🌐 Rust | 📅 2026-10-24 - Very fast implementation of tldr in Rust.
-* [dua](https://github.com/Byron/dua-cli) ⭐ 6,447 | 🐛 1 | 🌐 Rust | 📅 2026-11-16 - View disk space usage and delete unwanted data, fast.
-* [Pueue](https://github.com/Nukesor/pueue) ⭐ 6,431 | 🐛 23 | 🌐 Rust | 📅 2026-10-27 - Daemon for managing long running shell commands.
-* [procs](https://github.com/dalance/procs) ⭐ 6,223 | 🐛 44 | 🌐 Rust | 📅 2026-11-16 - Modern replacement for ps written in Rust.
+* [skim](https://github.com/lotabout/skim) ⭐ 7,014 | 🐛 9 | 🌐 Rust | 📅 2026-11-17 - Fuzzy Finder in rust.
+* [tealdeer](https://github.com/dbrgn/tealdeer) ⭐ 6,675 | 🐛 19 | 🌐 Rust | 📅 2026-10-24 - Very fast implementation of tldr in Rust.
+* [dua](https://github.com/Byron/dua-cli) ⭐ 6,448 | 🐛 1 | 🌐 Rust | 📅 2026-11-16 - View disk space usage and delete unwanted data, fast.
+* [Pueue](https://github.com/Nukesor/pueue) ⭐ 6,434 | 🐛 23 | 🌐 Rust | 📅 2026-11-17 - Daemon for managing long running shell commands.
+* [procs](https://github.com/dalance/procs) ⭐ 6,226 | 🐛 44 | 🌐 Rust | 📅 2026-11-16 - Modern replacement for ps written in Rust.
+* [gdu](https://github.com/dundee/gdu) ⭐ 6,212 | 🐛 49 | 🌐 Go | 📅 2026-11-16 - Disk usage analyzer with console interface written in Go.
 * [googler](https://github.com/jarun/googler) ⚠️ Archived - Google from the terminal.
-* [gdu](https://github.com/dundee/gdu) ⭐ 6,207 | 🐛 47 | 🌐 Go | 📅 2026-11-16 - Disk usage analyzer with console interface written in Go.
 * [fasd](https://github.com/clvv/fasd) ⚠️ Archived - Quick access to files and directories.
 * [entr](http://entrproject.org/) - Run arbitrary commands when files change. ([Article](https://jvns.ca/blog/2020/06/28/entr/)) ([Code](https://github.com/eradman/entr) ⭐ 5,731 | 🐛 0 | 🌐 C | 📅 2026-10-16)
-* [gifski](https://github.com/ImageOptim/gifski) ⭐ 5,712 | 🐛 38 | 🌐 Rust | 📅 2026-06-17 - GIF encoder. Squeezes maximum possible quality from the awful GIF format.
-* [Viddy](https://github.com/sachaos/viddy) ⭐ 5,450 | 🐛 38 | 🌐 Rust | 📅 2026-08-16 - Modern watch command. Time machine and pager etc.
-* [chroma](https://github.com/alecthomas/chroma) ⭐ 5,084 | 🐛 6 | 🌐 Go | 📅 2026-11-17 - General purpose syntax highlighter in pure Go.
-* [xplr](https://github.com/sayanarijit/xplr) ⭐ 4,852 | 🐛 4 | 🌐 Rust | 📅 2026-10-26 - Hackable, minimal, fast TUI file explorer, stealing ideas from nnn and fzf.
+* [gifski](https://github.com/ImageOptim/gifski) ⭐ 5,711 | 🐛 38 | 🌐 Rust | 📅 2026-06-17 - GIF encoder. Squeezes maximum possible quality from the awful GIF format.
+* [Viddy](https://github.com/sachaos/viddy) ⭐ 5,450 | 🐛 40 | 🌐 Rust | 📅 2026-08-16 - Modern watch command. Time machine and pager etc.
+* [chroma](https://github.com/alecthomas/chroma) ⭐ 5,084 | 🐛 10 | 🌐 Go | 📅 2026-11-17 - General purpose syntax highlighter in pure Go.
+* [xplr](https://github.com/sayanarijit/xplr) ⭐ 4,852 | 🐛 4 | 🌐 Rust | 📅 2026-11-17 - Hackable, minimal, fast TUI file explorer, stealing ideas from nnn and fzf.
 * [noti](https://github.com/variadico/noti) ⚠️ Archived - Monitor a process and trigger a notification.
-* [wifi-password](https://github.com/rauchg/wifi-password) ⭐ 4,581 | 🐛 27 | 🌐 Shell | 📅 2024-06-13 - Get wifi pass.
-* [lychee](https://github.com/lycheeverse/lychee) ⭐ 4,139 | 🐛 79 | 🌐 Rust | 📅 2026-11-16 - Fast, async, resource-friendly link checker written in Rust.
-* [jq in Go](https://github.com/itchyny/gojq) ⭐ 3,819 | 🐛 22 | 🌐 Go | 📅 2026-11-01 - Pure Go implementation of jq.
-* [ugrep](https://github.com/Genivia/ugrep) ⭐ 3,338 | 🐛 12 | 🌐 C++ | 📅 2026-11-09 - Ultra fast grep with interactive query UI.
-* [viu](https://github.com/atanunq/viu) ⭐ 3,314 | 🐛 52 | 🌐 Rust | 📅 2025-12-15 - Command-line application to view images from the terminal written in Rust.
+* [wifi-password](https://github.com/rauchg/wifi-password) ⭐ 4,583 | 🐛 27 | 🌐 Shell | 📅 2024-06-13 - Get wifi pass.
+* [lychee](https://github.com/lycheeverse/lychee) ⭐ 4,141 | 🐛 79 | 🌐 Rust | 📅 2026-11-16 - Fast, async, resource-friendly link checker written in Rust.
+* [jq in Go](https://github.com/itchyny/gojq) ⭐ 3,819 | 🐛 20 | 🌐 Go | 📅 2026-11-17 - Pure Go implementation of jq.
+* [ugrep](https://github.com/Genivia/ugrep) ⭐ 3,339 | 🐛 12 | 🌐 C++ | 📅 2026-11-09 - Ultra fast grep with interactive query UI.
+* [viu](https://github.com/atanunq/viu) ⭐ 3,315 | 🐛 52 | 🌐 Rust | 📅 2025-12-15 - Command-line application to view images from the terminal written in Rust.
 * [fzy](https://github.com/jhawthorn/fzy) ⭐ 3,313 | 🐛 59 | 🌐 C | 📅 2025-07-29 - Better fuzzy finder.
 * [ccat](https://github.com/jingweno/ccat) ⭐ 3,207 | 🐛 41 | 🌐 Go | 📅 2022-09-05 - Colorizing `cat`.
-* [zenith](https://github.com/bvaisvil/zenith) ⭐ 3,070 | 🐛 40 | 🌐 Rust | 📅 2026-10-01 - Sort of like top or htop but with zoom-able charts, network, and disk usage.
-* [termdash](https://github.com/mum4k/termdash) ⭐ 3,048 | 🐛 49 | 🌐 Go | 📅 2026-09-14 - Terminal based dashboard.
-* [FClones](https://github.com/pkolaczk/fclones) ⭐ 3,008 | 🐛 110 | 🌐 Rust | 📅 2025-03-03 - Efficient Duplicate File Finder.
-* [projen](https://github.com/projen/projen) ⭐ 2,965 | 🐛 216 | 🌐 TypeScript | 📅 2026-11-16 - Define and maintain complex project configuration through code.
-* [chrome-cli](https://github.com/prasmussen/chrome-cli) ⭐ 2,817 | 🐛 56 | 🌐 Objective-C | 📅 2025-09-03 - Control Google Chrome from the command line.
-* [pspg](https://github.com/okbob/pspg) ⭐ 2,744 | 🐛 0 | 🌐 C | 📅 2026-11-15 - Postgres Pager.
+* [zenith](https://github.com/bvaisvil/zenith) ⭐ 3,072 | 🐛 40 | 🌐 Rust | 📅 2026-10-01 - Sort of like top or htop but with zoom-able charts, network, and disk usage.
+* [termdash](https://github.com/mum4k/termdash) ⭐ 3,049 | 🐛 49 | 🌐 Go | 📅 2026-09-14 - Terminal based dashboard.
+* [FClones](https://github.com/pkolaczk/fclones) ⭐ 3,011 | 🐛 110 | 🌐 Rust | 📅 2025-03-03 - Efficient Duplicate File Finder.
+* [projen](https://github.com/projen/projen) ⭐ 2,965 | 🐛 216 | 🌐 TypeScript | 📅 2026-11-18 - Define and maintain complex project configuration through code.
+* [chrome-cli](https://github.com/prasmussen/chrome-cli) ⭐ 2,817 | 🐛 56 | 🌐 Objective-C | 📅 2026-11-17 - Control Google Chrome from the command line.
+* [pspg](https://github.com/okbob/pspg) ⭐ 2,745 | 🐛 0 | 🌐 C | 📅 2026-11-15 - Postgres Pager.
 * [s](https://github.com/zquestz/s) ⭐ 2,619 | 🐛 0 | 🌐 Go | 📅 2026-10-31 - Web search from the terminal. Just opens in your browser.
-* [sq](https://github.com/neilotoole/sq) ⭐ 2,575 | 🐛 90 | 🌐 Go | 📅 2026-11-14 - Command line tool that provides jq-style access to structured data sources such as SQL databases, or document formats like CSV or Excel. ([Web](https://sq.io/))
+* [sq](https://github.com/neilotoole/sq) ⭐ 2,575 | 🐛 93 | 🌐 Go | 📅 2026-11-17 - Command line tool that provides jq-style access to structured data sources such as SQL databases, or document formats like CSV or Excel. ([Web](https://sq.io/))
 * [Graphtage](https://github.com/trailofbits/graphtage) ⭐ 2,492 | 🐛 27 | 🌐 Python | 📅 2026-11-05 - Semantic diff utility and library for tree-like files such as JSON, JSON5, XML, HTML, YAML, and CSV.
-* [loc](https://github.com/cgag/loc) ⭐ 2,455 | 🐛 64 | 🌐 Rust | 📅 2024-04-21 - Count lines of code quickly.
-* [scons](https://github.com/SCons/scons) ⭐ 2,442 | 🐛 645 | 🌐 Python | 📅 2026-11-13 - Software construction tool.
-* [ls-lint](https://github.com/loeffel-io/ls-lint) ⭐ 2,435 | 🐛 50 | 🌐 Go | 📅 2026-11-16 - Extremely fast directory and filename linter - Bring some structure to your project directories. ([Docs](https://ls-lint.org/))
+* [loc](https://github.com/cgag/loc) ⭐ 2,456 | 🐛 64 | 🌐 Rust | 📅 2024-04-21 - Count lines of code quickly.
+* [scons](https://github.com/SCons/scons) ⭐ 2,443 | 🐛 645 | 🌐 Python | 📅 2026-11-13 - Software construction tool.
+* [ls-lint](https://github.com/loeffel-io/ls-lint) ⭐ 2,436 | 🐛 51 | 🌐 Go | 📅 2026-11-17 - Extremely fast directory and filename linter - Bring some structure to your project directories. ([Docs](https://ls-lint.org/))
 * [mdcat](https://github.com/lunaryorn/mdcat) ⚠️ Archived - `cat` for Markdown.
 * [Choose](https://github.com/theryangeary/choose) ⭐ 2,293 | 🐛 5 | 🌐 Rust | 📅 2026-06-11 - Human-friendly and fast alternative to awk and cut. ([HN](https://news.ycombinator.com/item?id=23427479))
 * [TV](https://github.com/alexhallam/tv) ⭐ 2,168 | 🐛 28 | 🌐 Rust | 📅 2025-08-21 - Cross-platform CSV pretty printer made to maximize viewer enjoyment. ([HN](https://news.ycombinator.com/item?id=28670252))
 * [ytop](https://github.com/cjbassi/ytop) ⚠️ Archived - TUI system monitor written in Rust.
 * [gf](https://github.com/tomnomnom/gf) ⭐ 2,138 | 🐛 54 | 🌐 Go | 📅 2024-06-08 - Wrapper around grep, to help you grep for things.
 * [snallygaster](https://github.com/hannob/snallygaster) ⭐ 2,115 | 🐛 12 | 🌐 Python | 📅 2026-10-18 - Tool to scan for secret files on HTTP servers.
-* [sad](https://github.com/ms-jpq/sad) ⭐ 2,053 | 🐛 28 | 🌐 Rust | 📅 2026-11-15 - CLI search and replace. Show you a nice diff of proposed changes before you commit them.
+* [sad](https://github.com/ms-jpq/sad) ⭐ 2,054 | 🐛 28 | 🌐 Rust | 📅 2026-11-15 - CLI search and replace. Show you a nice diff of proposed changes before you commit them.
 * [jump](https://github.com/gsamokovarov/jump) ⭐ 1,951 | 🐛 3 | 🌐 Go | 📅 2026-11-14 - Helps you navigate faster by learning your habits.
 * [kalk](https://github.com/PaddiM8/kalk) ⭐ 1,937 | 🐛 44 | 🌐 Rust | 📅 2026-09-18 - Command line calculator that supports math-like syntax with user-defined variables, functions, derivation, integration, and complex numbers. ([Web](https://kalk.strct.net/)) ([HN](https://news.ycombinator.com/item?id=27333772))
 * [rip](https://github.com/nivekuil/rip) ⭐ 1,736 | 🐛 26 | 🌐 Rust | 📅 2024-04-08 - Safe and ergonomic alternative to rm.
-* [yank](https://github.com/mptre/yank) ⭐ 1,717 | 🐛 2 | 🌐 C | 📅 2026-07-16 - Yank terminal output to clipboard. ([HN](https://news.ycombinator.com/item?id=26608233))
+* [yank](https://github.com/mptre/yank) ⭐ 1,717 | 🐛 3 | 🌐 C | 📅 2026-07-16 - Yank terminal output to clipboard. ([HN](https://news.ycombinator.com/item?id=26608233))
 * [urlhunter](https://github.com/utkusen/urlhunter) ⭐ 1,703 | 🐛 0 | 🌐 Go | 📅 2025-01-23 - Recon tool that allows searching on URLs that are exposed via shortener services.
 * [JQL](https://github.com/yamafaktory/jql) ⭐ 1,692 | 🐛 0 | 🌐 Rust | 📅 2026-11-15 - JSON Query Language CLI tool built with Rust.
 * [Antibody](https://github.com/getantibody/antibody) ⚠️ Archived - Fastest shell plugin manager.
 * [svgcleaner](https://github.com/RazrFalcon/svgcleaner) ⚠️ Archived - Clean up your SVG files from the unnecessary data.
-* [anew](https://github.com/tomnomnom/anew) ⭐ 1,661 | 🐛 8 | 🌐 Go | 📅 2024-01-12 - Tool for adding new lines to files, skipping duplicates.
+* [anew](https://github.com/tomnomnom/anew) ⭐ 1,662 | 🐛 8 | 🌐 Go | 📅 2024-01-12 - Tool for adding new lines to files, skipping duplicates.
 * [csvq](https://github.com/mithrandie/csvq) ⭐ 1,628 | 🐛 27 | 🌐 Go | 📅 2024-07-25 - SQL-like query language for csv.
 * [warp](https://github.com/spolu/warp?attempt=8) ⭐ 1,620 | 🐛 11 | 🌐 Go | 📅 2018-03-06 - Secure and simple terminal sharing.
 * [jwt-cli](https://github.com/mike-engel/jwt-cli) ⭐ 1,524 | 🐛 32 | 🌐 Rust | 📅 2026-10-19 - Super fast CLI tool to decode and encode JWTs built in Rust.
 * [so](https://github.com/samtay/so) ⭐ 1,422 | 🐛 19 | 🌐 Rust | 📅 2025-06-30 - Terminal interface for Stack Overflow.
 * [misspell](https://github.com/client9/misspell) ⚠️ Archived - Correct commonly misspelled English words in source files.
-* [massren](https://github.com/laurent22/massren) ⭐ 1,399 | 🐛 13 | 🌐 Go | 📅 2024-12-08 - Easily rename multiple files using your text editor.
+* [massren](https://github.com/laurent22/massren) ⭐ 1,400 | 🐛 13 | 🌐 Go | 📅 2024-12-08 - Easily rename multiple files using your text editor.
 * [grcov](https://github.com/mozilla/grcov) ⭐ 1,374 | 🐛 136 | 🌐 Rust | 📅 2026-11-16 - Collects and aggregates code coverage information for multiple source files.
 * [hunter](https://github.com/rabite0/hunter) ⭐ 1,336 | 🐛 40 | 🌐 Rust | 📅 2022-09-26 - Ranger-like file browser written in rust.
-* [Rdfind](https://github.com/pauldreik/rdfind) ⭐ 1,322 | 🐛 66 | 🌐 C++ | 📅 2026-07-25 - Command line tool that finds duplicate files.
+* [Rdfind](https://github.com/pauldreik/rdfind) ⭐ 1,323 | 🐛 66 | 🌐 C++ | 📅 2026-07-25 - Command line tool that finds duplicate files.
 * [bfs](https://github.com/tavianator/bfs) ⭐ 1,286 | 🐛 12 | 🌐 C | 📅 2026-11-13 - Breadth-first search for your files.
 * [diskus](https://github.com/sharkdp/diskus) ⭐ 1,270 | 🐛 16 | 🌐 Rust | 📅 2026-02-14 - Minimal, fast alternative to du -sh.
 * [nat](https://github.com/willdoescode/nat) ⭐ 1,265 | 🐛 0 | 🌐 Rust | 📅 2021-05-28 - Complete replacement for the 'ls' command.
-* [capcut-cli](https://github.com/renezander030/capcut-cli) ⭐ 1,220 | 🐛 2 | 🌐 JavaScript | 📅 2026-11-15 - Edit CapCut and JianYing video project drafts from the terminal.
-* [stow](https://github.com/aspiers/stow) ⭐ 1,161 | 🐛 46 | 🌐 Perl | 📅 2026-11-05 - Symlink farm manager program.
+* [capcut-cli](https://github.com/renezander030/capcut-cli) ⭐ 1,230 | 🐛 2 | 🌐 JavaScript | 📅 2026-11-15 - Edit CapCut and JianYing video project drafts from the terminal.
+* [stow](https://github.com/aspiers/stow) ⭐ 1,162 | 🐛 46 | 🌐 Perl | 📅 2026-11-05 - Symlink farm manager program.
 * [rush](https://github.com/shenwei356/rush) ⭐ 1,138 | 🐛 0 | 🌐 Go | 📅 2026-11-14 - Cross-platform command-line tool for executing jobs in parallel.
 * [linkchecker](https://github.com/linkchecker/linkchecker) ⭐ 1,080 | 🐛 96 | 🌐 Python | 📅 2026-09-22 - Check links in web documents or full websites.
 * [yj](https://github.com/sclevine/yj) ⭐ 1,060 | 🐛 27 | 🌐 Go | 📅 2026-05-15 - Convert YAML <=> TOML <=> JSON <=> HCL.
@@ -296,10 +296,10 @@
 * [mmv](https://github.com/itchyny/mmv) ⭐ 809 | 🐛 0 | 🌐 Go | 📅 2023-04-26 - Rename multiple files using your $EDITOR.
 * [hck](https://github.com/sstadick/hck) ⭐ 746 | 🐛 7 | 🌐 Rust | 📅 2026-06-15 - Drop in replacement for cut that can use a regex delimiter instead of a fixed string.
 * [Got](https://github.com/melbahja/got) ⭐ 733 | 🐛 15 | 🌐 Go | 📅 2024-01-16 - Simple and fast concurrent downloader.
-* [nomino](https://github.com/yaa110/nomino) ⭐ 715 | 🐛 6 | 🌐 Rust | 📅 2025-08-07 - Batch rename utility for developers.
+* [nomino](https://github.com/yaa110/nomino) ⭐ 716 | 🐛 6 | 🌐 Rust | 📅 2025-08-07 - Batch rename utility for developers.
 * [vgrep](https://github.com/vrothberg/vgrep) ⭐ 709 | 🐛 0 | 🌐 Go | 📅 2026-11-13 - User-friendly pager for grep.
 * [psrecord](https://github.com/astrofrog/psrecord) ⭐ 683 | 🐛 38 | 🌐 Python | 📅 2026-11-03 - Record the CPU and memory activity of a process.
-* [menyoki](https://github.com/orhun/menyoki) ⭐ 677 | 🐛 21 | 🌐 Rust | 📅 2026-10-24 - Screen{shot,cast} and perform ImageOps on the command line. ([Web](https://menyoki.cli.rs/))
+* [menyoki](https://github.com/orhun/menyoki) ⭐ 676 | 🐛 21 | 🌐 Rust | 📅 2026-10-24 - Screen{shot,cast} and perform ImageOps on the command line. ([Web](https://menyoki.cli.rs/))
 * [rnr](https://github.com/ChuckDaniels87/rnr) ⭐ 608 | 🐛 12 | 🌐 Rust | 📅 2026-10-05 - Command-line tool to batch rename files and directories.
 * [godu](https://github.com/viktomas/godu) ⭐ 598 | 🐛 19 | 🌐 Go | 📅 2026-11-09 - Simple golang utility helping to discover large files/folders.
 * [teip](https://github.com/greymd/teip) ⭐ 596 | 🐛 9 | 🌐 Rust | 📅 2026-04-22 - Select partial standard input and replace with the result of another command.
@@ -310,7 +310,7 @@
 * [Freshfetch](https://github.com/K4rakara/freshfetch) ⭐ 514 | 🐛 19 | 🌐 Rust | 📅 2024-06-05 - Fresh take on Neofetch.
 * [as-tree](https://github.com/jez/as-tree) ⭐ 503 | 🐛 19 | 🌐 Rust | 📅 2021-10-07 - Print a list of paths as a tree of paths.
 * [Ruplacer](https://github.com/TankerHQ/ruplacer) ⚠️ Archived - Find and replace text in source files.
-* [kickstart](https://github.com/Keats/kickstart) ⭐ 475 | 🐛 15 | 🌐 Rust | 📅 2026-10-14 - Scaffolding tool to get new projects up and running quickly.
+* [kickstart](https://github.com/Keats/kickstart) ⭐ 475 | 🐛 19 | 🌐 Rust | 📅 2026-10-14 - Scaffolding tool to get new projects up and running quickly.
 * [faq](https://github.com/jzelinskie/faq) ⭐ 464 | 🐛 20 | 🌐 Go | 📅 2024-10-02 - Format Agnostic jQ.
 * [todocheck](https://github.com/preslavmihaylov/todocheck) ⭐ 441 | 🐛 13 | 🌐 Go | 📅 2026-11-04 - Static code analyzer for annotated TODO comments.
 * [brok](https://github.com/smallhadroncollider/brok) ⭐ 422 | 🐛 12 | 🌐 Haskell | 📅 2023-03-06 - Find broken links in text documents. ([HN](https://news.ycombinator.com/item?id=22915834))
@@ -355,7 +355,7 @@
 * [Renamer](https://github.com/innocenzi/rename) ⭐ 55 | 🐛 0 | 🌐 TypeScript | 📅 2021-10-08 - Command line utility to batch-rename files via your editor.
 * [PWatch](https://github.com/VladimirMarkelov/pwatch) ⭐ 39 | 🐛 1 | 🌐 Rust | 📅 2022-09-03 - Process Watcher.
 * [undent](https://github.com/bradfitz/undent) ⭐ 35 | 🐛 1 | 🌐 Go | 📅 2020-12-17 - Unindent text/code.
-* [squeeze](https://github.com/aymericbeaumet/squeeze) ⭐ 30 | 🐛 1 | 🌐 Rust | 📅 2026-11-11 - Enables to extract rich information from any text (raw, JSON, HTML, YAML, etc).
+* [squeeze](https://github.com/aymericbeaumet/squeeze) ⭐ 30 | 🐛 2 | 🌐 Rust | 📅 2026-11-17 - Enables to extract rich information from any text (raw, JSON, HTML, YAML, etc).
 * [cbf](https://github.com/joshuatvernon/cbf) ⭐ 26 | 🐛 12 | 🌐 JavaScript | 📅 2023-02-27 - Build custom CLI apps with only a json or yaml file.
 * [eisd](https://github.com/guidojo/eisd) ⭐ 23 | 🐛 3 | 🌐 TypeScript | 📅 2022-01-15 - Execute your favorite command in SubDirectories.
 * [spin](https://github.com/egoist/spin) ⭐ 20 | 🐛 4 | 🌐 Go | 📅 2021-12-25 - Simple scaffolding tool.
@@ -452,7 +452,7 @@
 
 ## Related
 
-* [Awesome shell](https://github.com/alebcay/awesome-shell) ⭐ 37,969 | 🐛 194 | 📅 2025-08-28
+* [Awesome shell](https://github.com/alebcay/awesome-shell) ⭐ 37,976 | 🐛 196 | 📅 2025-08-28
 * [Awesome CLI apps](https://github.com/aharris88/awesome-cli-apps) ⚠️ Archived
 * [Structured text tools](https://github.com/dbohdan/structured-text-tools) ⭐ 7,149 | 🐛 11 | 📅 2026-10-16 - List of text-based file formats and command line tools for manipulating each.
 * [Awesome command line apps](https://github.com/herrbischoff/awesome-command-line-apps) ⚠️ Archived
@@ -464,4 +464,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
